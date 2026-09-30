@@ -1,0 +1,13 @@
+{
+    "Name": "[CP] Dynamic Gift Responses",
+    "Author": "HeadInTheClouds and Xyaria",
+    "Version": "1.0",
+    "Description": "",
+    "UniqueID": "HeadInTheClouds+Xyaria.DynamicGiftResponses",
+    "UpdateKeys": [
+        "Nexus:_____"
+    ],
+    "ContentPackFor": {
+        "UniqueId": "Pathoschild.ContentPatcher"
+    },
+}
