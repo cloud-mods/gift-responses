@@ -2,7 +2,7 @@
   //================================================================================================================================================================//
   //ABIGAIL//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Abigail.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Abigail.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Hey, you remembered my birthday... Thanks, @! This is really nice!$h",
   "AcceptBirthdayGift_Negative": "Hey, you remembered my birthday... Thanks, @!$h#$b#Oh, it's, uh... *sniff*... what is it?$s",
@@ -37,7 +37,7 @@
   //================================================================================================================================================================//
   //ALEX//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Alex.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Alex.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Loved": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @.",
   "AcceptBirthdayGift_Negative": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is trash.$a",
@@ -76,7 +76,7 @@
   //================================================================================================================================================================//
   //CAROLINE//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Caroline.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Caroline.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Thanks, sweetie. That's very kind of you to remember my birthday.$h",
   "AcceptBirthdayGift_Negative": "Oh... is that... a birthday gift? I see... well, thanks for stopping by.$a",
@@ -106,7 +106,7 @@
   //================================================================================================================================================================//
   //CLINT//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Clint.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Clint.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "I don't usually get birthday gifts. This actually means a lot, @. Thank you.",
   "AcceptBirthdayGift_Negative": "Is this a birthday gift? It's, uh... an interesting choice. Well I appreciate that you remembered me, anyway.",
@@ -136,7 +136,7 @@
   //================================================================================================================================================================//
   //DEMETRIUS//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Demetrius.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Demetrius.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Wow, this is a rare substance. I'll have to take it to the lab for... uh... further analysis.",
   "AcceptBirthdayGift_Positive": "A present!... with optimal timing. Today is the anniversary of my birth. Thank you!$h",
@@ -166,7 +166,7 @@
   //================================================================================================================================================================//
   //DWARF//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Dwarf.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Dwarf.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it? Hmm, very interesting...",
   "AcceptBirthdayGift_Negative": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it?#$b#So, is it part of the tradition to give out garbage like this?",
@@ -196,7 +196,7 @@
   //================================================================================================================================================================//
   //ELLIOTT//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Elliott.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Elliott.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "I'm honored that you would remember my birthday! Thank you!$h",
   "AcceptBirthdayGift_Negative": "Another year gone by, another gray hair... I suppose this gift can commemorate my decline.$s",
@@ -231,7 +231,7 @@
   //================================================================================================================================================================//
   //EMILY//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Emily.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Emily.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Oh, you remembered my birthday! Thanks, @! That's really nice of you.$h",
   "AcceptBirthdayGift_Negative": "Oh, you remembered my birthday! Thanks, @! That's really ni--$h#$b#...*sniff*...*sniff*... what is that smell?$s#$b#... What is this...?$s",
@@ -268,7 +268,7 @@
   //================================================================================================================================================================//
   //EVELYN//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Evelyn.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Evelyn.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Oh, you're giving this to me? Thank you so much, dear. This is a really special gift!",
   "AcceptGift_(O)170": "Thank you, dear. I've been looking everywhere for my reading glasses...#$b#My, my! They've become filthy...",
@@ -298,7 +298,7 @@
   //================================================================================================================================================================//
   //GEORGE//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.George.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.George.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Hmm... *sip*... ahhh... Tastes just like Mama's tuna casserole! Delicious!",
   */
@@ -325,7 +325,7 @@
   //================================================================================================================================================================//
   //GUS//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Gus.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Gus.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Oh wow, thank you! I'm tempted to drink all of it, but I'm going to save some for the saloon. I bet I could make an interesting cocktail with this!",
   "AcceptGift_Positive_category_cooking": "*sniff*... Ah. Exquisite cuisine. You know what I like, @.$h",
@@ -353,7 +353,7 @@
   //================================================================================================================================================================//
   //HALEY//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Haley.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Haley.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Loved": "*gasp*... You got this for me? Wow, @, this is the best birthday gift ever!$h",
   "AcceptBirthdayGift_Liked": "Awwwww, you got me a birthday gift? Well, I really like it!$h",
@@ -385,7 +385,7 @@
   //================================================================================================================================================================//
   //HARVEY//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Harvey.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Harvey.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Oh! Thank you very much! I didn't expect anyone to know it was my birthday today.$h",
   "AcceptBirthdayGift_Negative": "Oh! It's a... well, it's something. I didn't expect anyone to know it was my birthday today.",
@@ -416,7 +416,7 @@
   //================================================================================================================================================================//
   //JAS//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Jas.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Jas.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Wow, a birthday present! I love it!$h",
   "AcceptBirthdayGift_Negative": "A birthday present? Oh... I don't like this.$s",
@@ -450,7 +450,7 @@
   //================================================================================================================================================================//
   //JODI//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Jodi.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Jodi.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Ah... You sure you want to give away such a precious item? Well, thank you!",
   */
@@ -477,7 +477,7 @@
   //================================================================================================================================================================//
   //KENT//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Kent.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Kent.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "For me? Well, that's unexpected... But I won't say no. Thanks!",
   "AcceptGift_(O)Book_Bombs": "Well, I can't read Dwarvish, but it's an interesting collector's item. Thank you.",
@@ -505,7 +505,7 @@
   //================================================================================================================================================================//
   //KROBUS//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Krobus.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Krobus.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Oh, a gift to remember the day that I hatched! Thank you!$h",
   "GreenRain": "The flow of water has been unusually strong today... what's going on up there?",
@@ -538,7 +538,7 @@
   //================================================================================================================================================================//
   //LEAH//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Krobus.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Krobus.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Oh, wow... I had a sip of this stuff when I was a kid, and I've never forgotten the taste.",
   "AcceptBirthdayGift_Positive": "Hey, thanks a bunch, @! This makes my birthday feel special.$h",
@@ -570,7 +570,7 @@
   //================================================================================================================================================================//
   //LEO//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Leo.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Leo.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Wow, tastes just like golden walnuts! This is great!",
   "AcceptGift_(TR)ParrotEgg": "This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.",
@@ -598,7 +598,7 @@
   //================================================================================================================================================================//
   //LEWIS//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Lewis.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Lewis.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "I've Sandypled many teas in my life, but none are quite so rare and special as this. Thanks!",
   "AcceptBirthdayGift_Positive": "Ah, you remembered the old mayor's birthday. That's very thoughtful of you. And it's a nice gift!$h",
@@ -627,7 +627,7 @@
   //================================================================================================================================================================//
   //LINUS//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Linus.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Linus.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "This means a lot to me, @. I'll save it for a quiet day in the tent. Thank you!",
   "AcceptGift_(O)Book_Trash": "I don't usually read books... But this one is right up my 'alley'... Thank you!$h",
@@ -659,7 +659,7 @@
   //================================================================================================================================================================//
   //MARNIE//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Marnie.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Marnie.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Wow, thanks a million, @. I won't forget this!",
   "AcceptGift_(O)SkillBook_0": "Thanks, @. I always like to have a copy of the Almanac around. It's pretty accurate!$h",
@@ -687,7 +687,7 @@
   //================================================================================================================================================================//
   //MARU//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Maru.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Maru.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Mmm... How does it taste so good? This is really a great gift.",
   "AcceptGift_(O)787": "This will be perfect for powering my latest project! Thanks, @!$h",
@@ -719,7 +719,7 @@
   //================================================================================================================================================================//
   //PAM//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Pam.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Pam.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Well I'll be darned... I never expected to get a gift like this. You made my day, kid!",
   */
@@ -746,7 +746,7 @@
   //================================================================================================================================================================//
   //PENNY//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Penny.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Penny.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Loved": "Oh! Is this for me? For... for my birthday?$3#$b#*sniff*... Sorry.$s#$b#I'm... just not used to such kindness...#$b#... I love it, though. It's perfect. Thank you so much.",
   "AcceptBirthdayGift_Positive": "For my birthday? That's so nice of you! It's a great gift.$h",
@@ -778,7 +778,7 @@
   //================================================================================================================================================================//
   //PIERRE//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Pierre.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Pierre.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Wow, I can't believe you'd give this to me. It must've cost you a fortune! Thanks!",
   "AcceptGift_(O)Book_PriceCatalogue": "Gripping! Fascinating! It's the perfect book for me!$h",
@@ -806,7 +806,7 @@
   //================================================================================================================================================================//
   //ROBIN//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Robin.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Robin.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Wait a sec... you're giving me this? What a special treat! Thank you.",
   "AcceptGift_(O)Book_Woodcutting": "What's this... 'Woody's Secret'? ... Um, what kind of book is this, @?$6#$b#Oh, it's about woodcutting! Hahaha... Oh yeah, I'm going to love this. Thanks!$4",
@@ -832,10 +832,10 @@
   "i18n.Robin.Gift._______": "_______",
   //
   //
-    //================================================================================================================================================================//
+  //================================================================================================================================================================//
   //SAM//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Sam.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Sam.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)206": "Aw yeah... Pizza time!$h",
   "AcceptBirthdayGift_Positive": "Hey, hey, hey! You remembered! Now that's what I'm talking about!$h",
@@ -847,7 +847,7 @@
   "i18n.Sam.Gift._______": "_______",
   //
   //-----LIKED-----//
-  "i18n.Sam.Gift._______": "_______",
+  "i18n.Sam.Gift.BrokenCD": "Oh hey, that's my favorite album!$1#$e#Maybe I can put it up on my wall...",
   //
   //-----NEUTRAL-----//
   "i18n.Sam.Gift._______": "_______",
@@ -862,11 +862,10 @@
   "i18n.Sam.Gift._______": "_______",
   //
   //
-
   //================================================================================================================================================================//
   //SANDY//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Sandy.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Sandy.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)18": "Oh, wow! Nothing says 'spring' like a Stardew Valley daffodil!$h",
   "AcceptGift_(O)StardropTea": "Wow, that's so rare... I can't believe you're giving this to me! Thanks, honey!",
@@ -896,7 +895,7 @@
   //================================================================================================================================================================//
   //SEBASTIAN//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Sebastian.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Sebastian.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Oh, really? I wasn't expecting this. It looks great, though. Thank you.$h",
   "AcceptBirthdayGift_Negative": "Uhh... well, I appreciate the thought.",
@@ -931,7 +930,7 @@
   //================================================================================================================================================================//
   //SHANE//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Shane.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Shane.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Loved": "Oh, is it my birthday? I was hoping I'd forget.#$b#This is actually really nice, though. Thank you.$h",
   "AcceptBirthdayGift_Liked": "Oh, is it my birthday? That's right... I almost forgot. Thanks.",
@@ -943,6 +942,14 @@
   "i18n.Shane.Gift._______": "_______",
   //
   //-----LIKED-----//
+  "i18n.Shane.BirthdayGift.Liked.LowH": "Not the worst way I've been reminded of my birthday. Thanks.$1",
+  "i18n.Shane.BirthdayGift.Liked.MedH": "A birthday gift? For me? You shouldn't have but, appreciate you did.$1",
+  "i18n.Shane.BirthdayGift.Liked.HighH": "Happy birthday to me! Thanks, @.$1#$b# No really, thank you. You and Jas have made birthdays a thing I don't dread anymore.$4",
+  //
+  "i18n.Shane.Gift.Liked.LowH": "This is pretty nice, you sure you want to gift it to me? Not complaining, just, double checking is all.",
+  "i18n.Shane.Gift.Liked.MedH": "The way you always find me to give me stuff reminds me of a little magpie or maybe a young crow. In a good way! I, uh. Appreciate that you think of me like that.$1",
+  "i18n.Shane.Gift.Liked.HighH": "You know what, I'm gonna stop questioning that you do this before you realize better and decide to stop. Thanks, @.$1",
+  //
   "i18n.Shane.Gift._______": "_______",
   //
   //-----NEUTRAL-----//
@@ -952,7 +959,9 @@
   "i18n.Shane.Gift._______": "_______",
   //
   //-----HATED-----//
-  "i18n.Shane.Gift._______": "_______",
+  "i18n.Shane.Gift.Hated.LowH": "Do I look like a trash bin?$5",
+  "i18n.Shane.Gift.Hated.MedH": "If the point was to make my day worse, it is working.$4",
+  "i18n.Shane.Gift.Hated.HighH": "Did I do something to make you mad? I'm sorry if I did.$2#$b$ Must be pretty bad if you're giving me this.$5",
   //
   //-----REJECT-----//
   "i18n.Shane.Gift._______": "_______",
@@ -961,7 +970,7 @@
   //================================================================================================================================================================//
   //VINCENT//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Vincent.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Vincent.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptBirthdayGift_Positive": "Is that a birthday present? Can I open it now?#$b#Oh, wow! This is exactly what I wanted! Yayayaya!$h",
   "AcceptBirthdayGift_Negative": "A birthday present? Oh... this isn't very fun.$s",
@@ -992,7 +1001,7 @@
   //================================================================================================================================================================//
   //WILLY//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Willy.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Willy.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "By the stem o' me pipe...  a cup o' Stardrop Tea! And here I thought it was only the stuff of mermaid legend. Thank you kindly.",
   "AcceptGift_(O)Book_Crabbing": "Aye...  A timeless classic. Brings a tear to me eye, with every read. A fisherman can never have too many copies! Thank ye.$h",
@@ -1025,7 +1034,7 @@
   //================================================================================================================================================================//
   //WIZARD//
   //================================================================================================================================================================//
-  /* to yoink:  "i18n.Wizard.Gift.Item/Category": "_______", */
+  /* to yoink:  "i18n.Wizard.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Ah, what do we have here? A rare and potent elixir, it seems. Yes, this will make a fine addition to my reagent chest.",
   */
