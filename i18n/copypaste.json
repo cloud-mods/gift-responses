@@ -1,0 +1,114 @@
+{
+  
+  //================================================================================================================================================================//
+  //NAME//
+  //================================================================================================================================================================//
+  /* to yoink:  "i18n.Name.(Birthday)Gift.Item/Category/Taste.HeartRange": "_______", */
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Name.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Name.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Name.BirthdayGift.Loved.HighH": "_______",
+  //
+  "i18n.Name.Gift.Loved.LowH": "_______",
+  "i18n.Name.Gift.Loved.MedH": "_______",
+  "i18n.Name.Gift.Loved.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Name.Gift.Category.Loved": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Name.Gift.Item.Loved": "_______",
+  //
+  //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Name.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Name.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Name.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Name.Gift.Liked.LowH": "_______",
+  "i18n.Name.Gift.Liked.MedH": "_______",
+  "i18n.Name.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Name.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Name.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Name.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Name.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Name.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Name.Gift.Neutral.LowH": "_______",
+  "i18n.Name.Gift.Neutral.MedH": "_______",
+  "i18n.Name.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Name.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Name.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Name.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Name.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Name.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Name.Gift.Disliked.LowH": "_______",
+  "i18n.Name.Gift.Disliked.MedH": "_______",
+  "i18n.Name.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Name.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Name.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Name.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Name.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Name.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Name.Gift.Hated.LowH": "_______",
+  "i18n.Name.Gift.Hated.MedH": "_______",
+  "i18n.Name.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Name.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Name.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Name.Gift.Item/Category.Reject": "_______",
+  //
+  //
+
+  		{
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"TextOperations": [
+				{
+					"Operation": "Append",
+					"Target": [
+						"Fields",
+						"____", //NPC NAME
+						"5" //GUIDE: Loved: 1, Liked: 3, Neutral: 9, Disliked: 5, Hated: 7
+					],
+					"Value": "",// ITEM ID HERE
+					"Delimiter": " "
+				},
+			]
+		}
+
+}

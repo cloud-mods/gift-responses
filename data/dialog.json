@@ -1,0 +1,126 @@
+{
+	"Changes": [
+		/* KEY FORMATS:
+
+		//BIRTHDAY
+		AcceptBirthdayGift_<id>
+		AcceptBirthdayGift_<tag>
+		AcceptBirthdayGift_<taste>_<context tag>
+		AcceptBirthdayGift_<taste>
+		AcceptBirthdayGift_Negative
+		AcceptBirthdayGift_Positive
+		AcceptBirthdayGift
+
+		//NORMAL GIFTS
+		AcceptGift_<id>
+		AcceptGift_<tag>
+		AcceptGift_<taste>_<context tag>
+		AcceptGift_<taste>
+		AcceptGift
+		RejectItem_<id>
+		RejectItem_<tag>
+		RejectGift_Divorced
+
+		//BOUQUET
+		AcceptBouquet
+		RejectBouquet_NotDatable
+		RejectBouquet_NpcAlreadyMarried
+		RejectBouquet_AlreadyAccepted_Engaged
+		RejectBouquet_AlreadyAccepted_Married
+		RejectBouquet_AlreadyAccepted
+		RejectBouquet_Divorced
+		RejectBouquet_VeryLowHearts
+		RejectBouquet_LowHearts
+		RejectBouquet
+
+		//PENDANT
+		RejectMermaidPendant_AlreadyAccepted_Engaged
+		RejectMermaidPendant_AlreadyAccepted_Married
+		RejectMermaidPendant_AlreadyAccepted
+		RejectMermaidPendant_Divorced
+		RejectMermaidPendant_NeedHouseUpgrade
+		RejectMermaidPendant_NotDatable
+		RejectMermaidPendant_NpcWithSomeoneElse
+		RejectMermaidPendant_PlayerWithSomeoneElse
+		RejectMermaidPendant_Under8Hearts
+		RejectMermaidPendant_Under10Hearts
+		RejectMermaidPendant_Under10Hearts_AskedAgain
+		RejectMermaidPendant
+
+		RejectRoommateProposal_AlreadyAccepted
+		RejectRoommateProposal_NpcWithSomeoneElse
+		RejectRoommateProposal_PlayerWithSomeoneElse
+		RejectRoommateProposal_LowFriendship
+		RejectRoommateProposal_SmallHouse
+		RejectRoommateProposal
+
+		//MOVIES
+		MovieInvitation
+		RejectMovieTicket_AlreadyInvitedBySomeoneElse
+		RejectMovieTicket_AlreadyWatchedThisWeek
+		RejectMovieTicket_Divorced
+		RejectMovieTicket_DontWantToSeeThatMovie
+		RejectMovieTicket
+		
+		//PIRATE LADY QUEST
+		accept_<item_id>
+		reject_<item_id>
+		
+		/* i18n FORMAT "i18n.NPC.Gift.Item/Category.Conditions" */
+		//================================================================================================================================================================//
+		{ //--------------ABIGAIL--------------//
+			"LogName": "Abigail Dialog",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Abigail",
+			"Entries": {
+				//-----LOVED-----//
+				"_____": "_____",
+				//
+				//-----LIKED-----//
+				"AcceptGift_Liked_category_gem": "{{i18n: i18n.Abigail.Gems.Liked}}",
+				//
+				//-----NEUTRAL-----//
+				"_____": "_____",
+				//
+				//-----DISLIKED-----//
+				"_____": "_____",
+				//
+				//-----HATED-----//
+				"_____": "_____",
+				//
+				//-----REJECT-----//
+				"_____": "_____",
+				//
+				//-----SPECIAL-----//
+				"_____": "_____",
+			}
+		},
+		{ //--------------SAM--------------//
+			"LogName": "Sam Dialog",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sam",
+			"Entries": {
+				//-----LOVED-----//
+				"_____": "_____",
+				//
+				//-----LIKED-----//
+				"AcceptGift_(O)171": "{{i18n: i18n.Sam.Gift.BrokenCD}}",
+				//
+				//-----NEUTRAL-----//
+				"_____": "_____",
+				//
+				//-----DISLIKED-----//
+				"_____": "_____",
+				//
+				//-----HATED-----//
+				"_____": "_____",
+				//
+				//-----REJECT-----//
+				"_____": "_____",
+				//
+				//-----SPECIAL-----//
+				"_____": "_____",
+			}
+		},
+	]
+}

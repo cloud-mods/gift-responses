@@ -1,0 +1,66 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{NpcName}}",
+			"When": {
+				"Hearts:{{NpcName}}": "{{Range: 0, 3}}"
+			},
+			"Entries": {
+				//BIRTHDAY
+				"AcceptBirthdayGift_Loved": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Loved.LowH}}",
+				"AcceptBirthdayGift_Liked": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Liked.LowH}}",
+				"AcceptBirthdayGift_Neutral": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Neutral.LowH}}",
+				"AcceptBirthdayGift_Disliked": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Disliked.LowH}}",
+				"AcceptBirthdayGift_Hated": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Hated.LowH}}",
+				//NORMAL
+				"AcceptGift_Loved": "{{i18n: i18n.{{NpcName}}.Gift.Loved.LowH}}",
+				"AcceptGift_Liked": "{{i18n: i18n.{{NpcName}}.Gift.Liked.LowH}}",
+				"AcceptGift_Neutral": "{{i18n: i18n.{{NpcName}}.Gift.Neutral.LowH}}",
+				"AcceptGift_Disliked": "{{i18n: i18n.{{NpcName}}.Gift.Disliked.LowH}}",
+				"AcceptGift_Hated": "{{i18n: i18n.{{NpcName}}.Gift.Hated.LowH}}",
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{NpcName}}",
+			"When": {
+				"Hearts:{{NpcName}}": "{{Range: 4, 7}}"
+			},
+			"Entries": {
+				//BIRTHDAY
+				"AcceptBirthdayGift_Loved": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Loved.MedH}}",
+				"AcceptBirthdayGift_Liked": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Liked.MedH}}",
+				"AcceptBirthdayGift_Neutral": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Neutral.MedH}}",
+				"AcceptBirthdayGift_Disliked": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Disliked.MedH}}",
+				"AcceptBirthdayGift_Hated": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Hated.MedH}}",
+				//NORMAL
+				"AcceptGift_Loved": "{{i18n: i18n.{{NpcName}}.Gift.Loved.MedH}}",
+				"AcceptGift_Liked": "{{i18n: i18n.{{NpcName}}.Gift.Liked.MedH}}",
+				"AcceptGift_Neutral": "{{i18n: i18n.{{NpcName}}.Gift.Neutral.MedH}}",
+				"AcceptGift_Disliked": "{{i18n: i18n.{{NpcName}}.Gift.Disliked.MedH}}",
+				"AcceptGift_Hated": "{{i18n: i18n.{{NpcName}}.Gift.Hated.MedH}}",
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{NpcName}}",
+			"When": {
+				"Hearts:{{NpcName}}": "{{Range: 8, {{MaxHearts}} }}"
+			},
+			"Entries": {
+				"AcceptBirthdayGift_Loved": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Neutral.HighH}}",
+				"AcceptBirthdayGift_Liked": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Disliked.HighH}}",
+				"AcceptBirthdayGift_Neutral": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Neutral.HighH}}",
+				"AcceptBirthdayGift_Disliked": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Disliked.HighH}}",
+				"AcceptBirthdayGift_Hated": "{{i18n: i18n.{{NpcName}}.BirthdayGift.Neutral.HighH}}",
+				//
+				"AcceptGift_Loved": "{{i18n: i18n.{{NpcName}}.Gift.Loved.HighH}}",
+				"AcceptGift_Liked": "{{i18n: i18n.{{NpcName}}.Gift.Loved.HighH}}",
+				"AcceptGift_Neutral": "{{i18n: i18n.{{NpcName}}.Gift.Loved.HighH}}",
+				"AcceptGift_Disliked": "{{i18n: i18n.{{NpcName}}.Gift.Loved.HighH}}",
+				"AcceptGift_Hated": "{{i18n: i18n.{{NpcName}}.Gift.Loved.HighH}}",
+			}
+		},
+	]
+}

@@ -1,4 +1,6 @@
 {
+  //SEE https://smapi.io/json/i18n/b3da1fdd6ed747509619d21642cb009e for COPY-PASTE
+  //
   //================================================================================================================================================================//
   //ABIGAIL//
   //================================================================================================================================================================//
@@ -13,25 +15,104 @@
   "AcceptGift_(O)109": "Whoa... Where'd you find this? The workmanship is fascinating...#$b#It's a little too rusty to use, but I'll add it to my collection.",
   "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a little purple-haired cavewoman who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my lips, though.$h",
   "AcceptGift_(O)66": "$c 0.5#Wow... it's just my color! Thanks, @!$h#Thank you! This is my favorite stone. It's so pretty.",
+
+
+      "i18n.Abigail.Gift.Gems.Liked": "Oooh! This looks beautiful! *cronch*$1#$b#Aah, that was nice.",
+
+
 */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Abigail.Gift.GoldPumpkin": "Whoa... this is so cool! Thanks @!$1",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  //BIRTHDAY
+  "i18n.Abigail.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Abigail.BirthdayGift.Loved.MedH": "Hey, you remembered my birthday... Thanks, @! I love it!$1",
+  "i18n.Abigail.BirthdayGift.Loved.HighH": "_______",
+  //NORMAL
+  "i18n.Abigail.Gift.Loved.LowH": "_______",
+  "i18n.Abigail.Gift.Loved.MedH": "I seriously love this! You're the best, @!$1",
+  "i18n.Abigail.Gift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Abigail.Gift.Gems.Liked": "Oooh! This looks beautiful! *cronch*$1#$b#Aah, that was nice.",
+  //-----CATEGORIES-----//
+  "i18n.Abigail.Gift.Category.Loved": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Abigail.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Abigail.Gift.Item.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Abigail.Gift._______": "_______",
   //
-  //-----HATED-----//
-  "i18n.Abigail.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  //BIRTHDAY
+  "i18n.Abigail.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Abigail.BirthdayGift.Liked.MedH": "Hey, you remembered my birthday... Thanks, @! This is really nice!$h",
+  "i18n.Abigail.BirthdayGift.Liked.HighH": "_______",
+  //NORMAL
+  "i18n.Abigail.Gift.Liked.LowH": "_______",
+  "i18n.Abigail.Gift.Liked.MedH": "Hey, how'd you know I was hungry? This looks delicious!$1",
+  "i18n.Abigail.Gift.Liked.HighH": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Abigail.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Abigail.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Abigail.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  //BIRTHDAY
+  "i18n.Abigail.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Abigail.BirthdayGift.Neutral.MedH": "Hey, you remembered my birthday... Thanks, @!",
+  "i18n.Abigail.BirthdayGift.Neutral.HighH": "_______",
+  //NORMAL
+  "i18n.Abigail.Gift.Neutral.LowH": "You brought me a present? Thanks.",
+  "i18n.Abigail.Gift.Neutral.MedH": "You brought me a present? Thanks!",
+  "i18n.Abigail.Gift.Neutral.HighH": "You brought me a present? Thanks!$1",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Abigail.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Abigail.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  //BIRTHDAY
+  "i18n.Abigail.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Abigail.BirthdayGift.Disliked.MedH": "Hey, you remembered my birthday... Thanks, @!$1 #$b#Oh, it's, uh... *sniff*... what is it?$2",
+  "i18n.Abigail.BirthdayGift.Disliked.HighH": "_______",
+  //NORMAL
+  "i18n.Abigail.Gift.Disliked.LowH": "_______",
+  "i18n.Abigail.Gift.Disliked.MedH": "What am I supposed to do with this?$2",
+  "i18n.Abigail.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Abigail.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Abigail.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  //BIRTHDAY
+  "i18n.Abigail.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Abigail.BirthdayGift.Hated.MedH": "Hey, you remembered my birthday... Thanks, @!$1 #$b#Oh, it's, uh... *sniff*... what is it?$2",
+  "i18n.Abigail.BirthdayGift.Hated.HighH": "_______",
+  //NORMAL
+  "i18n.Abigail.Gift.Hated.LowH": "_______",
+  "i18n.Abigail.Gift.Hated.MedH": "What were you thinking? This is awful!",
+  "i18n.Abigail.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Abigail.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Abigail.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Abigail.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -53,24 +134,93 @@
   "AcceptGift_(O)305": "Oh... um... I usually like eggs, but this one looks evil.$s",
   "AcceptGift_(O)403": "*crunch*... Mmm... Nuts. That hits the spot. Thanks, @!",
 */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Alex.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Alex.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Alex.BirthdayGift.Loved.MedH": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @!$4",
+  "i18n.Alex.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Alex.Gift._______": "_______",
+  "i18n.Alex.Gift.Loved.LowH": "_______",
+  "i18n.Alex.Gift.Loved.MedH": "Hey, awesome! I love this stuff!$1",
+  "i18n.Alex.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Alex.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Alex.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Alex.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Alex.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Alex.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Alex.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Alex.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Alex.BirthdayGift.Liked.MedH": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @!$1",
+  "i18n.Alex.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Alex.Gift.Liked.LowH": "_______",
+  "i18n.Alex.Gift.Liked.MedH": "This is cool! Thanks.$1",
+  "i18n.Alex.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Alex.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Alex.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Alex.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Alex.BirthdayGift.Neutral.MedH": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @.",
+  "i18n.Alex.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Alex.Gift.Neutral.LowH": "_______",
+  "i18n.Alex.Gift.Neutral.MedH": "Thanks!",
+  "i18n.Alex.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Alex.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Alex.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Alex.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Alex.BirthdayGift.Disliked.MedH": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is trash.$2",
+  "i18n.Alex.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Alex.Gift.Disliked.LowH": "_______",
+  "i18n.Alex.Gift.Disliked.MedH": "Um... Okay. Thanks.$2",
+  "i18n.Alex.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Alex.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Alex.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Alex.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Alex.BirthdayGift.Hated.MedH": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is trash.$5",
+  "i18n.Alex.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Alex.Gift.Hated.LowH": "_______",
+  "i18n.Alex.Gift.Hated.MedH": "Are you serious? This is garbage.$5",
+  "i18n.Alex.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Alex.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Alex.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Alex.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -83,24 +233,93 @@
   "AcceptGift_(O)StardropTea": "Ooohh... this is nice. I'll save it for a quiet day in the sunroom.",
   "AcceptGift_(O)16": "Oh, you've been foraging! Thank you!#$b#I'll make a spicy cocktail sauce with this. That'll put some hair on Pierre's chest.$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Caroline.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Caroline.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Caroline.BirthdayGift.Loved.MedH": "Thanks, sweetie. That's very kind of you to remember my birthday.$1",
+  "i18n.Caroline.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Caroline.Gift._______": "_______",
+  "i18n.Caroline.Gift.Loved.LowH": "_______",
+  "i18n.Caroline.Gift.Loved.MedH": "Oh, @... you're spoiling me! I love it!$1",
+  "i18n.Caroline.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Caroline.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Caroline.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Caroline.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Caroline.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Caroline.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Caroline.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Caroline.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Caroline.BirthdayGift.Liked.MedH": "Thanks, sweetie. That's very kind of you to remember my birthday.$1",
+  "i18n.Caroline.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Caroline.Gift.Liked.LowH": "_______",
+  "i18n.Caroline.Gift.Liked.MedH": "For me? This is such a thoughtful gift! Thank you!$1",
+  "i18n.Caroline.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Caroline.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Caroline.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Caroline.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Caroline.BirthdayGift.Neutral.MedH": "Thanks, sweetie. That's very kind of you to remember my birthday.$1",
+  "i18n.Caroline.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Caroline.Gift.Neutral.LowH": "_______",
+  "i18n.Caroline.Gift.Neutral.MedH": "Oh, that's sweet. Thank you.",
+  "i18n.Caroline.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Caroline.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Caroline.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Caroline.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Caroline.BirthdayGift.Disliked.MedH": "Oh... is that... a birthday gift? I see... well, thanks for stopping by.$2",
+  "i18n.Caroline.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Caroline.Gift.Disliked.LowH": "_______",
+  "i18n.Caroline.Gift.Disliked.MedH": "Oh... I see. I'll, uh... make sure to put it to good use...$2",
+  "i18n.Caroline.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Caroline.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Caroline.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Caroline.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Caroline.BirthdayGift.Hated.MedH": "Oh... is that... a birthday gift? I see... well, thanks for stopping by.$5",
+  "i18n.Caroline.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Caroline.Gift.Hated.LowH": "_______",
+  "i18n.Caroline.Gift.Hated.MedH": "Um... I guess I could use it for compost...$2",
+  "i18n.Caroline.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Caroline.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Caroline.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Caroline.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -113,26 +332,95 @@
   "AcceptGift_(O)StardropTea": "You're giving this... to me? I don't think I deserve it, but.. thank you.",
   "AcceptGift_(O)SkillBook_3": "Oh, interesting... These books aren't very easy to come by in the valley.#$b#Looks like there's a lot of good tips in here. Thanks, @.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Clint.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Clint.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Clint.BirthdayGift.Loved.MedH": "I don't usually get birthday gifts. This actually means a lot, @. Thank you.$1",
+  "i18n.Clint.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Clint.Gift._______": "_______",
+  "i18n.Clint.Gift.Loved.LowH": "_______",
+  "i18n.Clint.Gift.Loved.MedH": "Yes! This is exactly what I've been looking for!$1",
+  "i18n.Clint.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Clint.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Clint.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Clint.Gift._______": "_______",
-  //
-  //-----HATED-----//
-  "i18n.Clint.Gift._______": "_______",
-  //
-  //-----REJECT-----//
-  "i18n.Clint.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Clint.Gift.Item.Loved": "_______",
   //
   //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Clint.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Clint.BirthdayGift.Liked.MedH": "I don't usually get birthday gifts. I appreciate it, thanks, @.$1",
+  "i18n.Clint.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Clint.Gift.Liked.LowH": "_______",
+  "i18n.Clint.Gift.Liked.MedH": "This is a fun gift. Thanks!$1",
+  "i18n.Clint.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Clint.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Clint.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Clint.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Clint.BirthdayGift.Neutral.MedH": "I don't usually get birthday gifts. Uh, thank you, @.$1",
+  "i18n.Clint.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Clint.Gift.Neutral.LowH": "_______",
+  "i18n.Clint.Gift.Neutral.MedH": "Thanks.",
+  "i18n.Clint.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Clint.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Clint.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Clint.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Clint.BirthdayGift.Disliked.MedH": "Is this a birthday gift? It's, uh... an interesting choice.$2#$b#Well I appreciate that you remembered me, anyway.$2",
+  "i18n.Clint.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Clint.Gift.Disliked.LowH": "_______",
+  "i18n.Clint.Gift.Disliked.MedH": "*Sigh*...$2",
+  "i18n.Clint.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Clint.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Clint.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Clint.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Clint.BirthdayGift.Hated.MedH": "Is this meant to be a birthday gift? It's, uh... a choice.$5#$b#Well I guess you remembered me, anyway.$2",
+  "i18n.Clint.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Clint.Gift.Hated.LowH": "_______",
+  "i18n.Clint.Gift.Hated.MedH": "This makes me depressed.$5",
+  "i18n.Clint.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Clint.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Clint.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Clint.Gift.Item/Category.Reject": "_______",
+  //
+  //  
   //================================================================================================================================================================//
   //DEMETRIUS//
   //================================================================================================================================================================//
@@ -143,24 +431,93 @@
   "AcceptBirthdayGift_Negative": "A present!... with optimal timing. Today is the anniversary of my birth.$h#$b#Let's see what it is... $h#$b#...Oh.$s",
   "AcceptGift_(O)107": "Wow, an intact dinosaur egg! This is an extremely rare specimen. Now, if only it could be incubated...",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Demetrius.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Demetrius.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Demetrius.BirthdayGift.Loved.MedH": "A present!... with optimal timing. Today is the anniversary of my birth. $h#$b#Let's see what it is... $h#$b#*gasp* $7#$b#Amazing! I appreciate it immensely.$1",
+  "i18n.Demetrius.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Demetrius.Gift._______": "_______",
+  "i18n.Demetrius.Gift.Loved.LowH": "_______",
+  "i18n.Demetrius.Gift.Loved.MedH": "You're giving this to me? This is amazing!$1",
+  "i18n.Demetrius.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Demetrius.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Demetrius.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Demetrius.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Demetrius.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Demetrius.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Demetrius.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Demetrius.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Demetrius.BirthdayGift.Liked.MedH": "A present!... with optimal timing. Today is the anniversary of my birth. $h#$b#Let's see what it is... $h#$b#Wonderful! Thank you, @.$1",
+  "i18n.Demetrius.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Demetrius.Gift.Liked.LowH": "_______",
+  "i18n.Demetrius.Gift.Liked.MedH": "Thank you! This is a very interesting specimen.$1",
+  "i18n.Demetrius.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Demetrius.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Demetrius.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Demetrius.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Demetrius.BirthdayGift.Neutral.MedH": "A present!... with optimal timing. Today is the anniversary of my birth. Thank you!$h",
+  "i18n.Demetrius.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Demetrius.Gift.Neutral.LowH": "_______",
+  "i18n.Demetrius.Gift.Neutral.MedH": "That was very thoughtful of you.",
+  "i18n.Demetrius.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Demetrius.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Demetrius.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Demetrius.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Demetrius.BirthdayGift.Disliked.MedH": "A present!... with optimal timing. Today is the anniversary of my birth.$h#$b#Let's see what it is... $h#$b#...Oh.$2",
+  "i18n.Demetrius.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Demetrius.Gift.Disliked.LowH": "_______",
+  "i18n.Demetrius.Gift.Disliked.MedH": "...What is this?$2",
+  "i18n.Demetrius.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Demetrius.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Demetrius.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Demetrius.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Demetrius.BirthdayGift.Hated.MedH": "A present!... with optimal timing. Today is the anniversary of my birth.$h#$b#Let's see what it is... $h#$b#...Oh.$5",
+  "i18n.Demetrius.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Demetrius.Gift.Hated.LowH": "_______",
+  "i18n.Demetrius.Gift.Hated.MedH": "This is disgusting.$5",
+  "i18n.Demetrius.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Demetrius.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Demetrius.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Demetrius.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -173,24 +530,93 @@
   "AcceptGift_(O)StardropTea": "*sniff*... is this milk? *sip*... hmm... tastes good.",
   "AcceptGift_Neutral_milk_item": "Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from?#$b#...!!! *sploosh*",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Dwarf.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Dwarf.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Dwarf.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Dwarf.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Dwarf.Gift._______": "_______",
+  "i18n.Dwarf.Gift.Loved.LowH": "_______",
+  "i18n.Dwarf.Gift.Loved.MedH": "_______",
+  "i18n.Dwarf.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Dwarf.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Dwarf.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Dwarf.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Dwarf.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Dwarf.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Dwarf.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Dwarf.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Dwarf.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Dwarf.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Dwarf.Gift.Liked.LowH": "_______",
+  "i18n.Dwarf.Gift.Liked.MedH": "_______",
+  "i18n.Dwarf.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Dwarf.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Dwarf.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Dwarf.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Dwarf.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Dwarf.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Dwarf.Gift.Neutral.LowH": "_______",
+  "i18n.Dwarf.Gift.Neutral.MedH": "_______",
+  "i18n.Dwarf.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Dwarf.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Dwarf.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Dwarf.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Dwarf.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Dwarf.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Dwarf.Gift.Disliked.LowH": "_______",
+  "i18n.Dwarf.Gift.Disliked.MedH": "_______",
+  "i18n.Dwarf.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Dwarf.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Dwarf.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Dwarf.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Dwarf.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Dwarf.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Dwarf.Gift.Hated.LowH": "_______",
+  "i18n.Dwarf.Gift.Hated.MedH": "_______",
+  "i18n.Dwarf.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Dwarf.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Dwarf.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Dwarf.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -208,24 +634,93 @@
   "AcceptGift_(O)154": "Agh, it's still wriggling! Get that abomination away from me!$6 [154]",
   "AcceptGift_(O)155": "Agh, it's still wriggling! Get that abomination away from me!$6 [155]",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Elliott.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Elliott.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Elliott.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Elliott.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Elliott.Gift._______": "_______",
+  "i18n.Elliott.Gift.Loved.LowH": "_______",
+  "i18n.Elliott.Gift.Loved.MedH": "_______",
+  "i18n.Elliott.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Elliott.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Elliott.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Elliott.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Elliott.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Elliott.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Elliott.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Elliott.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Elliott.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Elliott.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Elliott.Gift.Liked.LowH": "_______",
+  "i18n.Elliott.Gift.Liked.MedH": "_______",
+  "i18n.Elliott.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Elliott.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Elliott.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Elliott.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Elliott.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Elliott.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Elliott.Gift.Neutral.LowH": "_______",
+  "i18n.Elliott.Gift.Neutral.MedH": "_______",
+  "i18n.Elliott.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Elliott.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Elliott.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Elliott.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Elliott.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Elliott.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Elliott.Gift.Disliked.LowH": "_______",
+  "i18n.Elliott.Gift.Disliked.MedH": "_______",
+  "i18n.Elliott.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Elliott.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Elliott.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Elliott.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Elliott.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Elliott.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Elliott.Gift.Hated.LowH": "_______",
+  "i18n.Elliott.Gift.Hated.MedH": "_______",
+  "i18n.Elliott.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Elliott.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Elliott.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Elliott.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -245,24 +740,93 @@
   "AcceptGift_(O)62": "$c 0.5#It's so smooth! When I hold it... I can feel the energy of all the mermaids in the sea. Thank you!#Thank you! I'm gonna put this under my pillow, and hopefully I'll dream about the ocean.",
   "AcceptGift_(O)60": "$c 0.5#Oh!... Heheh... I know exactly why you gave me this stone today. Very interesting...#Wow, it's beautiful! This color makes me think of all the spiritual power within the forest... Can you feel that wood energy?",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Emily.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Emily.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Emily.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Emily.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Emily.Gift._______": "_______",
+  "i18n.Emily.Gift.Loved.LowH": "_______",
+  "i18n.Emily.Gift.Loved.MedH": "_______",
+  "i18n.Emily.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Emily.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Emily.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Emily.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Emily.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Emily.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Emily.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Emily.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Emily.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Emily.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Emily.Gift.Liked.LowH": "_______",
+  "i18n.Emily.Gift.Liked.MedH": "_______",
+  "i18n.Emily.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Emily.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Emily.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Emily.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Emily.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Emily.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Emily.Gift.Neutral.LowH": "_______",
+  "i18n.Emily.Gift.Neutral.MedH": "_______",
+  "i18n.Emily.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Emily.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Emily.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Emily.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Emily.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Emily.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Emily.Gift.Disliked.LowH": "_______",
+  "i18n.Emily.Gift.Disliked.MedH": "_______",
+  "i18n.Emily.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Emily.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Emily.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Emily.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Emily.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Emily.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Emily.Gift.Hated.LowH": "_______",
+  "i18n.Emily.Gift.Hated.MedH": "_______",
+  "i18n.Emily.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Emily.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Emily.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Emily.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -275,24 +839,93 @@
   "AcceptGift_Positive_forage_item_beach": "Thank you, dear. This brings back such sweet memories...",
   "MovieInvitation": "Oh my! That's so kind of you, dear. Why yes... I'd love to go to the movies!$h#$b#You go on ahead, and I'll meet you at the theater.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Evelyn.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Evelyn.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Evelyn.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Evelyn.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Evelyn.Gift._______": "_______",
+  "i18n.Evelyn.Gift.Loved.LowH": "_______",
+  "i18n.Evelyn.Gift.Loved.MedH": "_______",
+  "i18n.Evelyn.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Evelyn.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Evelyn.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Evelyn.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Evelyn.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Evelyn.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Evelyn.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Evelyn.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Evelyn.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Evelyn.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Evelyn.Gift.Liked.LowH": "_______",
+  "i18n.Evelyn.Gift.Liked.MedH": "_______",
+  "i18n.Evelyn.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Evelyn.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Evelyn.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Evelyn.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Evelyn.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Evelyn.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Evelyn.Gift.Neutral.LowH": "_______",
+  "i18n.Evelyn.Gift.Neutral.MedH": "_______",
+  "i18n.Evelyn.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Evelyn.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Evelyn.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Evelyn.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Evelyn.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Evelyn.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Evelyn.Gift.Disliked.LowH": "_______",
+  "i18n.Evelyn.Gift.Disliked.MedH": "_______",
+  "i18n.Evelyn.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Evelyn.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Evelyn.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Evelyn.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Evelyn.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Evelyn.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Evelyn.Gift.Hated.LowH": "_______",
+  "i18n.Evelyn.Gift.Hated.MedH": "_______",
+  "i18n.Evelyn.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Evelyn.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Evelyn.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Evelyn.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -302,24 +935,93 @@
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Hmm... *sip*... ahhh... Tastes just like Mama's tuna casserole! Delicious!",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.George.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.George.BirthdayGift.Loved.LowH": "_______",
+  "i18n.George.BirthdayGift.Loved.MedH": "_______",
+  "i18n.George.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.George.Gift._______": "_______",
+  "i18n.George.Gift.Loved.LowH": "_______",
+  "i18n.George.Gift.Loved.MedH": "_______",
+  "i18n.George.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.George.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.George.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.George.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.George.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.George.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.George.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.George.BirthdayGift.Liked.LowH": "_______",
+  "i18n.George.BirthdayGift.Liked.MedH": "_______",
+  "i18n.George.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.George.Gift.Liked.LowH": "_______",
+  "i18n.George.Gift.Liked.MedH": "_______",
+  "i18n.George.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.George.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.George.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.George.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.George.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.George.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.George.Gift.Neutral.LowH": "_______",
+  "i18n.George.Gift.Neutral.MedH": "_______",
+  "i18n.George.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.George.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.George.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.George.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.George.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.George.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.George.Gift.Disliked.LowH": "_______",
+  "i18n.George.Gift.Disliked.MedH": "_______",
+  "i18n.George.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.George.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.George.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.George.BirthdayGift.Hated.LowH": "_______",
+  "i18n.George.BirthdayGift.Hated.MedH": "_______",
+  "i18n.George.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.George.Gift.Hated.LowH": "_______",
+  "i18n.George.Gift.Hated.MedH": "_______",
+  "i18n.George.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.George.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.George.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.George.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -330,24 +1032,93 @@
   "AcceptGift_(O)StardropTea": "Oh wow, thank you! I'm tempted to drink all of it, but I'm going to save some for the saloon. I bet I could make an interesting cocktail with this!",
   "AcceptGift_Positive_category_cooking": "*sniff*... Ah. Exquisite cuisine. You know what I like, @.$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Gus.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Gus.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Gus.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Gus.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Gus.Gift._______": "_______",
+  "i18n.Gus.Gift.Loved.LowH": "_______",
+  "i18n.Gus.Gift.Loved.MedH": "_______",
+  "i18n.Gus.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Gus.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Gus.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Gus.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Gus.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Gus.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Gus.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Gus.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Gus.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Gus.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Gus.Gift.Liked.LowH": "_______",
+  "i18n.Gus.Gift.Liked.MedH": "_______",
+  "i18n.Gus.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Gus.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Gus.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Gus.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Gus.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Gus.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Gus.Gift.Neutral.LowH": "_______",
+  "i18n.Gus.Gift.Neutral.MedH": "_______",
+  "i18n.Gus.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Gus.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Gus.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Gus.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Gus.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Gus.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Gus.Gift.Disliked.LowH": "_______",
+  "i18n.Gus.Gift.Disliked.MedH": "_______",
+  "i18n.Gus.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Gus.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Gus.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Gus.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Gus.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Gus.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Gus.Gift.Hated.LowH": "_______",
+  "i18n.Gus.Gift.Hated.MedH": "_______",
+  "i18n.Gus.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Gus.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Gus.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Gus.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -362,24 +1133,93 @@
   "AcceptGift_(O)88": "$c 0.8#Is that... coconut? I love this!$h#Mmm.... coconuts remind me of warm, sunny days at the beach. When I hold one, I feel like I'm there... even when it's raining.",
   "AcceptGift_(O)421": "Wow, they're beautiful! These are my absolute favorite.$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Haley.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Haley.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Haley.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Haley.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Haley.Gift._______": "_______",
+  "i18n.Haley.Gift.Loved.LowH": "_______",
+  "i18n.Haley.Gift.Loved.MedH": "_______",
+  "i18n.Haley.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Haley.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Haley.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Haley.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Haley.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Haley.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Haley.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Haley.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Haley.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Haley.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Haley.Gift.Liked.LowH": "_______",
+  "i18n.Haley.Gift.Liked.MedH": "_______",
+  "i18n.Haley.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Haley.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Haley.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Haley.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Haley.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Haley.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Haley.Gift.Neutral.LowH": "_______",
+  "i18n.Haley.Gift.Neutral.MedH": "_______",
+  "i18n.Haley.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Haley.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Haley.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Haley.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Haley.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Haley.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Haley.Gift.Disliked.LowH": "_______",
+  "i18n.Haley.Gift.Disliked.MedH": "_______",
+  "i18n.Haley.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Haley.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Haley.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Haley.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Haley.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Haley.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Haley.Gift.Hated.LowH": "_______",
+  "i18n.Haley.Gift.Hated.MedH": "_______",
+  "i18n.Haley.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Haley.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Haley.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Haley.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -393,24 +1233,93 @@
   "AcceptGift_(O)432": "It's for me? Thank you! This will be fantastic drizzled on some pasta.$h",
   "AcceptGift_(O)348": "For me? What a gift! This looks fantastic!$h#$b#You know, on a physiological level, I wouldn't advise the consumption of alcohol...#$b#But there's no denying the benefit of kicking back and enjoying a glass of fine Stardew Valley wine!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Harvey.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Harvey.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Harvey.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Harvey.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Harvey.Gift._______": "_______",
+  "i18n.Harvey.Gift.Loved.LowH": "_______",
+  "i18n.Harvey.Gift.Loved.MedH": "_______",
+  "i18n.Harvey.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Harvey.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Harvey.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Harvey.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Harvey.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Harvey.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Harvey.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Harvey.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Harvey.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Harvey.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Harvey.Gift.Liked.LowH": "_______",
+  "i18n.Harvey.Gift.Liked.MedH": "_______",
+  "i18n.Harvey.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Harvey.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Harvey.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Harvey.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Harvey.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Harvey.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Harvey.Gift.Neutral.LowH": "_______",
+  "i18n.Harvey.Gift.Neutral.MedH": "_______",
+  "i18n.Harvey.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Harvey.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Harvey.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Harvey.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Harvey.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Harvey.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Harvey.Gift.Disliked.LowH": "_______",
+  "i18n.Harvey.Gift.Disliked.MedH": "_______",
+  "i18n.Harvey.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Harvey.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Harvey.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Harvey.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Harvey.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Harvey.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Harvey.Gift.Hated.LowH": "_______",
+  "i18n.Harvey.Gift.Hated.MedH": "_______",
+  "i18n.Harvey.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Harvey.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Harvey.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Harvey.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -427,24 +1336,93 @@
   "AcceptGift_Negative_alcohol_item": "Umm... I'm not supposed to drink this. Isn't it for adults?$s",
   "AcceptGift_Negative_coffee_item": "Oh... Aunt Marnie doesn't let me drink coffee yet...$s",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Jas.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jas.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Jas.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Jas.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Jas.Gift._______": "_______",
+  "i18n.Jas.Gift.Loved.LowH": "_______",
+  "i18n.Jas.Gift.Loved.MedH": "_______",
+  "i18n.Jas.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Jas.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Jas.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Jas.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Jas.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Jas.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Jas.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jas.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Jas.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Jas.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Jas.Gift.Liked.LowH": "_______",
+  "i18n.Jas.Gift.Liked.MedH": "_______",
+  "i18n.Jas.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jas.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jas.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jas.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Jas.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Jas.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Jas.Gift.Neutral.LowH": "_______",
+  "i18n.Jas.Gift.Neutral.MedH": "_______",
+  "i18n.Jas.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jas.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jas.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jas.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Jas.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Jas.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Jas.Gift.Disliked.LowH": "_______",
+  "i18n.Jas.Gift.Disliked.MedH": "_______",
+  "i18n.Jas.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jas.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jas.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jas.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Jas.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Jas.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Jas.Gift.Hated.LowH": "_______",
+  "i18n.Jas.Gift.Hated.MedH": "_______",
+  "i18n.Jas.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jas.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jas.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Jas.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -454,24 +1432,93 @@
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Ah... You sure you want to give away such a precious item? Well, thank you!",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Jodi.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jodi.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Jodi.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Jodi.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Jodi.Gift._______": "_______",
+  "i18n.Jodi.Gift.Loved.LowH": "_______",
+  "i18n.Jodi.Gift.Loved.MedH": "_______",
+  "i18n.Jodi.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Jodi.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Jodi.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Jodi.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Jodi.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Jodi.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Jodi.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jodi.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Jodi.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Jodi.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Jodi.Gift.Liked.LowH": "_______",
+  "i18n.Jodi.Gift.Liked.MedH": "_______",
+  "i18n.Jodi.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jodi.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jodi.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jodi.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Jodi.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Jodi.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Jodi.Gift.Neutral.LowH": "_______",
+  "i18n.Jodi.Gift.Neutral.MedH": "_______",
+  "i18n.Jodi.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jodi.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jodi.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jodi.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Jodi.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Jodi.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Jodi.Gift.Disliked.LowH": "_______",
+  "i18n.Jodi.Gift.Disliked.MedH": "_______",
+  "i18n.Jodi.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jodi.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jodi.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Jodi.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Jodi.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Jodi.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Jodi.Gift.Hated.LowH": "_______",
+  "i18n.Jodi.Gift.Hated.MedH": "_______",
+  "i18n.Jodi.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Jodi.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Jodi.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Jodi.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -482,24 +1529,93 @@
   "AcceptGift_(O)StardropTea": "For me? Well, that's unexpected... But I won't say no. Thanks!",
   "AcceptGift_(O)Book_Bombs": "Well, I can't read Dwarvish, but it's an interesting collector's item. Thank you.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Kent.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Kent.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Kent.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Kent.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Kent.Gift._______": "_______",
+  "i18n.Kent.Gift.Loved.LowH": "_______",
+  "i18n.Kent.Gift.Loved.MedH": "_______",
+  "i18n.Kent.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Kent.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Kent.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Kent.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Kent.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Kent.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Kent.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Kent.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Kent.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Kent.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Kent.Gift.Liked.LowH": "_______",
+  "i18n.Kent.Gift.Liked.MedH": "_______",
+  "i18n.Kent.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Kent.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Kent.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Kent.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Kent.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Kent.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Kent.Gift.Neutral.LowH": "_______",
+  "i18n.Kent.Gift.Neutral.MedH": "_______",
+  "i18n.Kent.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Kent.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Kent.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Kent.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Kent.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Kent.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Kent.Gift.Disliked.LowH": "_______",
+  "i18n.Kent.Gift.Disliked.MedH": "_______",
+  "i18n.Kent.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Kent.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Kent.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Kent.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Kent.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Kent.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Kent.Gift.Hated.LowH": "_______",
+  "i18n.Kent.Gift.Hated.MedH": "_______",
+  "i18n.Kent.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Kent.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Kent.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Kent.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -515,24 +1631,93 @@
   "AcceptGift_(O)879": "A gift of lovely perfume? Oh, @... I'm blushing, but you probably can't notice...$4",
   "AcceptGift_(O)308": "This smells delicious! I'll eat half, and use the other half to moisturize my body...$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Krobus.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Krobus.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Krobus.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Krobus.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Krobus.Gift._______": "_______",
+  "i18n.Krobus.Gift.Loved.LowH": "_______",
+  "i18n.Krobus.Gift.Loved.MedH": "_______",
+  "i18n.Krobus.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Krobus.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Krobus.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Krobus.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Krobus.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Krobus.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Krobus.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Krobus.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Krobus.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Krobus.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Krobus.Gift.Liked.LowH": "_______",
+  "i18n.Krobus.Gift.Liked.MedH": "_______",
+  "i18n.Krobus.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Krobus.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Krobus.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Krobus.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Krobus.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Krobus.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Krobus.Gift.Neutral.LowH": "_______",
+  "i18n.Krobus.Gift.Neutral.MedH": "_______",
+  "i18n.Krobus.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Krobus.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Krobus.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Krobus.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Krobus.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Krobus.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Krobus.Gift.Disliked.LowH": "_______",
+  "i18n.Krobus.Gift.Disliked.MedH": "_______",
+  "i18n.Krobus.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Krobus.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Krobus.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Krobus.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Krobus.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Krobus.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Krobus.Gift.Hated.LowH": "_______",
+  "i18n.Krobus.Gift.Hated.MedH": "_______",
+  "i18n.Krobus.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Krobus.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Krobus.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Krobus.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -547,26 +1732,96 @@
   "AcceptGift_(O)200": "Mmm... Back in the city, the veggies never tasted this fresh. I love it!$h",
   "AcceptGift_(O)196": "$c 0.8#This looks delicious... Thank you! There's nothing quite like a fresh, wild salad.$h#Oh, wow, @! This is exactly what I was craving! How'd you know?$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Leah.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leah.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Leah.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Leah.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Leah.Gift._______": "_______",
+  "i18n.Leah.Gift.Loved.LowH": "_______",
+  "i18n.Leah.Gift.Loved.MedH": "_______",
+  "i18n.Leah.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Leah.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Leah.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Leah.Gift._______": "_______",
-  //
-  //-----HATED-----//
-  "i18n.Leah.Gift._______": "_______",
-  //
-  //-----REJECT-----//
-  "i18n.Leah.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Leah.Gift.Item.Loved": "_______",
   //
   //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leah.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Leah.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Leah.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Leah.Gift.Liked.LowH": "_______",
+  "i18n.Leah.Gift.Liked.MedH": "_______",
+  "i18n.Leah.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leah.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leah.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leah.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Leah.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Leah.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Leah.Gift.Neutral.LowH": "_______",
+  "i18n.Leah.Gift.Neutral.MedH": "_______",
+  "i18n.Leah.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leah.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leah.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leah.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Leah.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Leah.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Leah.Gift.Disliked.LowH": "_______",
+  "i18n.Leah.Gift.Disliked.MedH": "_______",
+  "i18n.Leah.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leah.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leah.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leah.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Leah.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Leah.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Leah.Gift.Hated.LowH": "_______",
+  "i18n.Leah.Gift.Hated.MedH": "_______",
+  "i18n.Leah.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leah.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leah.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Leah.Gift.Item/Category.Reject": "_______",
+  //
+  //
+
   //================================================================================================================================================================//
   //LEO//
   //================================================================================================================================================================//
@@ -575,26 +1830,96 @@
   "AcceptGift_(O)StardropTea": "Wow, tastes just like golden walnuts! This is great!",
   "AcceptGift_(TR)ParrotEgg": "This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Leo.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leo.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Leo.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Leo.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Leo.Gift._______": "_______",
+  "i18n.Leo.Gift.Loved.LowH": "_______",
+  "i18n.Leo.Gift.Loved.MedH": "_______",
+  "i18n.Leo.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Leo.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Leo.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Leo.Gift._______": "_______",
-  //
-  //-----HATED-----//
-  "i18n.Leo.Gift._______": "_______",
-  //
-  //-----REJECT-----//
-  "i18n.Leo.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Leo.Gift.Item.Loved": "_______",
   //
   //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leo.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Leo.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Leo.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Leo.Gift.Liked.LowH": "_______",
+  "i18n.Leo.Gift.Liked.MedH": "_______",
+  "i18n.Leo.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leo.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leo.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leo.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Leo.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Leo.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Leo.Gift.Neutral.LowH": "_______",
+  "i18n.Leo.Gift.Neutral.MedH": "_______",
+  "i18n.Leo.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leo.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leo.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leo.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Leo.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Leo.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Leo.Gift.Disliked.LowH": "_______",
+  "i18n.Leo.Gift.Disliked.MedH": "_______",
+  "i18n.Leo.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leo.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leo.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Leo.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Leo.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Leo.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Leo.Gift.Hated.LowH": "_______",
+  "i18n.Leo.Gift.Hated.MedH": "_______",
+  "i18n.Leo.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Leo.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Leo.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Leo.Gift.Item/Category.Reject": "_______",
+  //
+  //
+
   //================================================================================================================================================================//
   //LEWIS//
   //================================================================================================================================================================//
@@ -604,26 +1929,96 @@
   "AcceptBirthdayGift_Positive": "Ah, you remembered the old mayor's birthday. That's very thoughtful of you. And it's a nice gift!$h",
   "AcceptBirthdayGift_Negative": "Ah, you remembered the old mayor's birthday... what's this?$h#$b#Um... well you know what they say, 'it's the thought that counts'.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Lewis.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Lewis.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Lewis.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Lewis.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Lewis.Gift._______": "_______",
+  "i18n.Lewis.Gift.Loved.LowH": "_______",
+  "i18n.Lewis.Gift.Loved.MedH": "_______",
+  "i18n.Lewis.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Lewis.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Lewis.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Lewis.Gift._______": "_______",
-  //
-  //-----HATED-----//
-  "i18n.Lewis.Gift._______": "_______",
-  //
-  //-----REJECT-----//
-  "i18n.Lewis.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Lewis.Gift.Item.Loved": "_______",
   //
   //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Lewis.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Lewis.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Lewis.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Lewis.Gift.Liked.LowH": "_______",
+  "i18n.Lewis.Gift.Liked.MedH": "_______",
+  "i18n.Lewis.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Lewis.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Lewis.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Lewis.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Lewis.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Lewis.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Lewis.Gift.Neutral.LowH": "_______",
+  "i18n.Lewis.Gift.Neutral.MedH": "_______",
+  "i18n.Lewis.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Lewis.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Lewis.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Lewis.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Lewis.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Lewis.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Lewis.Gift.Disliked.LowH": "_______",
+  "i18n.Lewis.Gift.Disliked.MedH": "_______",
+  "i18n.Lewis.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Lewis.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Lewis.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Lewis.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Lewis.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Lewis.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Lewis.Gift.Hated.LowH": "_______",
+  "i18n.Lewis.Gift.Hated.MedH": "_______",
+  "i18n.Lewis.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Lewis.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Lewis.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Lewis.Gift.Item/Category.Reject": "_______",
+  //
+  //
+
   //================================================================================================================================================================//
   //LINUS//
   //================================================================================================================================================================//
@@ -636,26 +2031,96 @@
   "AcceptGift_(O)166": "No, thank you. I have no desire for money... In fact, I think it's cursed. [166]",
   "AcceptGift_Positive_category_fish": "Ah, that looks fresh. I'll be eating good tonight!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Linus.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Linus.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Linus.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Linus.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Linus.Gift._______": "_______",
+  "i18n.Linus.Gift.Loved.LowH": "_______",
+  "i18n.Linus.Gift.Loved.MedH": "_______",
+  "i18n.Linus.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Linus.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Linus.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Linus.Gift._______": "_______",
-  //
-  //-----HATED-----//
-  "i18n.Linus.Gift._______": "_______",
-  //
-  //-----REJECT-----//
-  "i18n.Linus.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Linus.Gift.Item.Loved": "_______",
   //
   //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Linus.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Linus.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Linus.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Linus.Gift.Liked.LowH": "_______",
+  "i18n.Linus.Gift.Liked.MedH": "_______",
+  "i18n.Linus.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Linus.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Linus.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Linus.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Linus.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Linus.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Linus.Gift.Neutral.LowH": "_______",
+  "i18n.Linus.Gift.Neutral.MedH": "_______",
+  "i18n.Linus.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Linus.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Linus.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Linus.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Linus.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Linus.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Linus.Gift.Disliked.LowH": "_______",
+  "i18n.Linus.Gift.Disliked.MedH": "_______",
+  "i18n.Linus.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Linus.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Linus.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Linus.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Linus.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Linus.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Linus.Gift.Hated.LowH": "_______",
+  "i18n.Linus.Gift.Hated.MedH": "_______",
+  "i18n.Linus.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Linus.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Linus.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Linus.Gift.Item/Category.Reject": "_______",
+  //
+  //
+
   //================================================================================================================================================================//
   //MARNIE//
   //================================================================================================================================================================//
@@ -664,24 +2129,93 @@
   "AcceptGift_(O)StardropTea": "Wow, thanks a million, @. I won't forget this!",
   "AcceptGift_(O)SkillBook_0": "Thanks, @. I always like to have a copy of the Almanac around. It's pretty accurate!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Marnie.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Marnie.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Marnie.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Marnie.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Marnie.Gift._______": "_______",
+  "i18n.Marnie.Gift.Loved.LowH": "_______",
+  "i18n.Marnie.Gift.Loved.MedH": "_______",
+  "i18n.Marnie.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Marnie.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Marnie.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Marnie.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Marnie.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Marnie.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Marnie.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Marnie.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Marnie.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Marnie.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Marnie.Gift.Liked.LowH": "_______",
+  "i18n.Marnie.Gift.Liked.MedH": "_______",
+  "i18n.Marnie.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Marnie.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Marnie.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Marnie.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Marnie.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Marnie.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Marnie.Gift.Neutral.LowH": "_______",
+  "i18n.Marnie.Gift.Neutral.MedH": "_______",
+  "i18n.Marnie.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Marnie.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Marnie.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Marnie.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Marnie.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Marnie.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Marnie.Gift.Disliked.LowH": "_______",
+  "i18n.Marnie.Gift.Disliked.MedH": "_______",
+  "i18n.Marnie.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Marnie.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Marnie.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Marnie.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Marnie.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Marnie.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Marnie.Gift.Hated.LowH": "_______",
+  "i18n.Marnie.Gift.Hated.MedH": "_______",
+  "i18n.Marnie.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Marnie.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Marnie.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Marnie.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -696,24 +2230,94 @@
   "AcceptGift_(O)122": "Ooh, this is exciting! I'll deconstruct it and see if I can reverse-engineer the technology.$h",
   "AcceptGift_(O)910": "Ahh! Be careful with that! Are you touching it with your bare hands?$9#$b#... Sorry... hehe... With proper handling, this will be perfect for an exotic machine I'm building.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Maru.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Maru.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Maru.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Maru.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Maru.Gift._______": "_______",
+  "i18n.Maru.Gift.Loved.LowH": "_______",
+  "i18n.Maru.Gift.Loved.MedH": "_______",
+  "i18n.Maru.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Maru.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Maru.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Maru.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Maru.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Maru.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Maru.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Maru.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Maru.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Maru.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Maru.Gift.Liked.LowH": "_______",
+  "i18n.Maru.Gift.Liked.MedH": "_______",
+  "i18n.Maru.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Maru.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Maru.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Maru.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Maru.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Maru.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Maru.Gift.Neutral.LowH": "_______",
+  "i18n.Maru.Gift.Neutral.MedH": "_______",
+  "i18n.Maru.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Maru.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Maru.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Maru.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Maru.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Maru.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Maru.Gift.Disliked.LowH": "_______",
+  "i18n.Maru.Gift.Disliked.MedH": "_______",
+  "i18n.Maru.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Maru.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Maru.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Maru.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Maru.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Maru.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Maru.Gift.Hated.LowH": "_______",
+  "i18n.Maru.Gift.Hated.MedH": "_______",
+  "i18n.Maru.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Maru.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Maru.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Maru.Gift.Item/Category.Reject": "_______",
+  //
   //
   //
   //================================================================================================================================================================//
@@ -723,24 +2327,93 @@
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Well I'll be darned... I never expected to get a gift like this. You made my day, kid!",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Pam.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pam.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Pam.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Pam.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Pam.Gift._______": "_______",
+  "i18n.Pam.Gift.Loved.LowH": "_______",
+  "i18n.Pam.Gift.Loved.MedH": "_______",
+  "i18n.Pam.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Pam.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Pam.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Pam.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Pam.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Pam.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Pam.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pam.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Pam.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Pam.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Pam.Gift.Liked.LowH": "_______",
+  "i18n.Pam.Gift.Liked.MedH": "_______",
+  "i18n.Pam.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pam.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pam.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pam.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Pam.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Pam.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Pam.Gift.Neutral.LowH": "_______",
+  "i18n.Pam.Gift.Neutral.MedH": "_______",
+  "i18n.Pam.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pam.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pam.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pam.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Pam.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Pam.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Pam.Gift.Disliked.LowH": "_______",
+  "i18n.Pam.Gift.Disliked.MedH": "_______",
+  "i18n.Pam.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pam.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pam.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pam.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Pam.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Pam.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Pam.Gift.Hated.LowH": "_______",
+  "i18n.Pam.Gift.Hated.MedH": "_______",
+  "i18n.Pam.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pam.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pam.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Pam.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -755,24 +2428,93 @@
   "AcceptGift_Positive_ancient_item": "Wow... this looks really old. I'll have to ask Gunther about it. Thank you!$h",
   "AcceptGift_Positive_book_item": "Thank you! I'm almost finished with a book right now, but I'll read this one next!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Penny.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Penny.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Penny.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Penny.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Penny.Gift._______": "_______",
+  "i18n.Penny.Gift.Loved.LowH": "_______",
+  "i18n.Penny.Gift.Loved.MedH": "_______",
+  "i18n.Penny.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Penny.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Penny.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Penny.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Penny.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Penny.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Penny.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Penny.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Penny.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Penny.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Penny.Gift.Liked.LowH": "_______",
+  "i18n.Penny.Gift.Liked.MedH": "_______",
+  "i18n.Penny.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Penny.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Penny.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Penny.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Penny.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Penny.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Penny.Gift.Neutral.LowH": "_______",
+  "i18n.Penny.Gift.Neutral.MedH": "_______",
+  "i18n.Penny.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Penny.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Penny.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Penny.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Penny.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Penny.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Penny.Gift.Disliked.LowH": "_______",
+  "i18n.Penny.Gift.Disliked.MedH": "_______",
+  "i18n.Penny.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Penny.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Penny.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Penny.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Penny.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Penny.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Penny.Gift.Hated.LowH": "_______",
+  "i18n.Penny.Gift.Hated.MedH": "_______",
+  "i18n.Penny.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Penny.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Penny.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Penny.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -783,24 +2525,93 @@
   "AcceptGift_(O)StardropTea": "Wow, I can't believe you'd give this to me. It must've cost you a fortune! Thanks!",
   "AcceptGift_(O)Book_PriceCatalogue": "Gripping! Fascinating! It's the perfect book for me!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Pierre.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pierre.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Pierre.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Pierre.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Pierre.Gift._______": "_______",
+  "i18n.Pierre.Gift.Loved.LowH": "_______",
+  "i18n.Pierre.Gift.Loved.MedH": "_______",
+  "i18n.Pierre.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Pierre.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Pierre.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Pierre.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Pierre.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Pierre.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Pierre.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pierre.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Pierre.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Pierre.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Pierre.Gift.Liked.LowH": "_______",
+  "i18n.Pierre.Gift.Liked.MedH": "_______",
+  "i18n.Pierre.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pierre.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pierre.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pierre.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Pierre.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Pierre.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Pierre.Gift.Neutral.LowH": "_______",
+  "i18n.Pierre.Gift.Neutral.MedH": "_______",
+  "i18n.Pierre.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pierre.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pierre.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pierre.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Pierre.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Pierre.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Pierre.Gift.Disliked.LowH": "_______",
+  "i18n.Pierre.Gift.Disliked.MedH": "_______",
+  "i18n.Pierre.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pierre.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pierre.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Pierre.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Pierre.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Pierre.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Pierre.Gift.Hated.LowH": "_______",
+  "i18n.Pierre.Gift.Hated.MedH": "_______",
+  "i18n.Pierre.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Pierre.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Pierre.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Pierre.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -812,24 +2623,93 @@
   "AcceptGift_(O)Book_Woodcutting": "What's this... 'Woody's Secret'? ... Um, what kind of book is this, @?$6#$b#Oh, it's about woodcutting! Hahaha... Oh yeah, I'm going to love this. Thanks!$4",
   "AcceptGift_(O)SkillBook_2": "Ah, 'Woodcutter's Weekly'... I was hoping to get my hands on the newest issue! They've got all the latest techniques in here!#$b#From one woodcutter to another... Thank you.$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Robin.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Robin.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Robin.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Robin.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Robin.Gift._______": "_______",
+  "i18n.Robin.Gift.Loved.LowH": "_______",
+  "i18n.Robin.Gift.Loved.MedH": "_______",
+  "i18n.Robin.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Robin.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Robin.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Robin.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Robin.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Robin.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Robin.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Robin.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Robin.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Robin.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Robin.Gift.Liked.LowH": "_______",
+  "i18n.Robin.Gift.Liked.MedH": "_______",
+  "i18n.Robin.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Robin.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Robin.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Robin.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Robin.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Robin.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Robin.Gift.Neutral.LowH": "_______",
+  "i18n.Robin.Gift.Neutral.MedH": "_______",
+  "i18n.Robin.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Robin.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Robin.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Robin.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Robin.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Robin.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Robin.Gift.Disliked.LowH": "_______",
+  "i18n.Robin.Gift.Disliked.MedH": "_______",
+  "i18n.Robin.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Robin.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Robin.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Robin.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Robin.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Robin.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Robin.Gift.Hated.LowH": "_______",
+  "i18n.Robin.Gift.Hated.MedH": "_______",
+  "i18n.Robin.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Robin.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Robin.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Robin.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -841,25 +2721,100 @@
   "AcceptBirthdayGift_Positive": "Hey, hey, hey! You remembered! Now that's what I'm talking about!$h",
   "AcceptBirthdayGift_Negative": "Hey, hey, hey! You rememb--$h#$b#...*sniff*...*sniff*... what's that gnarly smell...?$8#$b#...Oh.$5",
   "AcceptGift_(O)StardropTea": "Whoaa... Hold on... this is for me? I never expected this! Thank you! ",
+
+
+
+
+    "i18n.Sam.Gift.BrokenCD": "Oh hey, that's my favorite album!$1#$e#Maybe I can put it up on my wall...",
+
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Sam.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sam.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Sam.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Sam.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Sam.Gift.BrokenCD": "Oh hey, that's my favorite album!$1#$e#Maybe I can put it up on my wall...",
+  "i18n.Sam.Gift.Loved.LowH": "_______",
+  "i18n.Sam.Gift.Loved.MedH": "_______",
+  "i18n.Sam.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Sam.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Sam.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Sam.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Sam.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Sam.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Sam.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sam.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Sam.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Sam.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Sam.Gift.Liked.LowH": "_______",
+  "i18n.Sam.Gift.Liked.MedH": "_______",
+  "i18n.Sam.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sam.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sam.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sam.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Sam.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Sam.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Sam.Gift.Neutral.LowH": "_______",
+  "i18n.Sam.Gift.Neutral.MedH": "_______",
+  "i18n.Sam.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sam.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sam.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sam.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Sam.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Sam.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Sam.Gift.Disliked.LowH": "_______",
+  "i18n.Sam.Gift.Disliked.MedH": "_______",
+  "i18n.Sam.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sam.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sam.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sam.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Sam.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Sam.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Sam.Gift.Hated.LowH": "_______",
+  "i18n.Sam.Gift.Hated.MedH": "_______",
+  "i18n.Sam.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sam.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sam.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Sam.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -872,24 +2827,93 @@
   "AcceptGift_(O)418": "Ahh... even in winter, Stardew Valley has beautiful flowers.",
   "AcceptGift_(O)402": "*sniff*... Mmm... sweet peas have the most wonderful smell.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Sandy.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sandy.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Sandy.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Sandy.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Sandy.Gift._______": "_______",
+  "i18n.Sandy.Gift.Loved.LowH": "_______",
+  "i18n.Sandy.Gift.Loved.MedH": "_______",
+  "i18n.Sandy.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Sandy.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Sandy.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Sandy.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Sandy.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Sandy.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Sandy.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sandy.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Sandy.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Sandy.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Sandy.Gift.Liked.LowH": "_______",
+  "i18n.Sandy.Gift.Liked.MedH": "_______",
+  "i18n.Sandy.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sandy.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sandy.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sandy.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Sandy.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Sandy.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Sandy.Gift.Neutral.LowH": "_______",
+  "i18n.Sandy.Gift.Neutral.MedH": "_______",
+  "i18n.Sandy.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sandy.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sandy.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sandy.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Sandy.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Sandy.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Sandy.Gift.Disliked.LowH": "_______",
+  "i18n.Sandy.Gift.Disliked.MedH": "_______",
+  "i18n.Sandy.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sandy.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sandy.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sandy.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Sandy.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Sandy.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Sandy.Gift.Hated.LowH": "_______",
+  "i18n.Sandy.Gift.Hated.MedH": "_______",
+  "i18n.Sandy.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sandy.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sandy.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Sandy.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -907,24 +2931,93 @@
   "AcceptGift_(O)236": "You brought me soup? That's really nice of you.$h#$b#This one brings back a lot of memories...",
   "AcceptGift_(TR)FrogEgg": "Hey, that's a frog egg! I'll see if I can get it to hatch. Thanks!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Sebastian.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sebastian.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Sebastian.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Sebastian.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Sebastian.Gift._______": "_______",
+  "i18n.Sebastian.Gift.Loved.LowH": "_______",
+  "i18n.Sebastian.Gift.Loved.MedH": "_______",
+  "i18n.Sebastian.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Sebastian.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Sebastian.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Sebastian.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Sebastian.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Sebastian.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Sebastian.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sebastian.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Sebastian.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Sebastian.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Sebastian.Gift.Liked.LowH": "_______",
+  "i18n.Sebastian.Gift.Liked.MedH": "_______",
+  "i18n.Sebastian.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sebastian.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sebastian.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sebastian.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Sebastian.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Sebastian.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Sebastian.Gift.Neutral.LowH": "_______",
+  "i18n.Sebastian.Gift.Neutral.MedH": "_______",
+  "i18n.Sebastian.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sebastian.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sebastian.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sebastian.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Sebastian.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Sebastian.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Sebastian.Gift.Disliked.LowH": "_______",
+  "i18n.Sebastian.Gift.Disliked.MedH": "_______",
+  "i18n.Sebastian.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sebastian.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sebastian.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Sebastian.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Sebastian.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Sebastian.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Sebastian.Gift.Hated.LowH": "_______",
+  "i18n.Sebastian.Gift.Hated.MedH": "_______",
+  "i18n.Sebastian.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Sebastian.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Sebastian.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Sebastian.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -936,13 +3029,12 @@
   "AcceptBirthdayGift_Liked": "Oh, is it my birthday? That's right... I almost forgot. Thanks.",
   "AcceptGift_(O)StardropTea": "Heh... thanks. Tastes just like beer.",
   "AcceptGift_(O)203": "Oh, you made it? *squish*... Um... *smack*... I think I'll stick to frozen pizza. But thanks.",
-  */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Shane.Gift._______": "_______",
-  //
-  //-----LIKED-----//
-  "i18n.Shane.BirthdayGift.Liked.LowH": "Not the worst way I've been reminded of my birthday. Thanks.$1",
+
+
+
+
+
+    "i18n.Shane.BirthdayGift.Liked.LowH": "Not the worst way I've been reminded of my birthday. Thanks.$1",
   "i18n.Shane.BirthdayGift.Liked.MedH": "A birthday gift? For me? You shouldn't have but, appreciate you did.$1",
   "i18n.Shane.BirthdayGift.Liked.HighH": "Happy birthday to me! Thanks, @.$1#$b# No really, thank you. You and Jas have made birthdays a thing I don't dread anymore.$4",
   //
@@ -962,9 +3054,95 @@
   "i18n.Shane.Gift.Hated.LowH": "Do I look like a trash bin?$5",
   "i18n.Shane.Gift.Hated.MedH": "If the point was to make my day worse, it is working.$4",
   "i18n.Shane.Gift.Hated.HighH": "Did I do something to make you mad? I'm sorry if I did.$2#$b$ Must be pretty bad if you're giving me this.$5",
+
+  */
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Shane.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Shane.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Shane.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Shane.Gift._______": "_______",
+  "i18n.Shane.Gift.Loved.LowH": "_______",
+  "i18n.Shane.Gift.Loved.MedH": "_______",
+  "i18n.Shane.Gift.Loved.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Shane.Gift.Category.Loved": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Shane.Gift.Item.Loved": "_______",
+  //
+  //
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Shane.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Shane.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Shane.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Shane.Gift.Liked.LowH": "_______",
+  "i18n.Shane.Gift.Liked.MedH": "_______",
+  "i18n.Shane.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Shane.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Shane.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Shane.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Shane.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Shane.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Shane.Gift.Neutral.LowH": "_______",
+  "i18n.Shane.Gift.Neutral.MedH": "_______",
+  "i18n.Shane.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Shane.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Shane.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Shane.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Shane.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Shane.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Shane.Gift.Disliked.LowH": "_______",
+  "i18n.Shane.Gift.Disliked.MedH": "_______",
+  "i18n.Shane.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Shane.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Shane.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Shane.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Shane.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Shane.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Shane.Gift.Hated.LowH": "_______",
+  "i18n.Shane.Gift.Hated.MedH": "_______",
+  "i18n.Shane.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Shane.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Shane.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Shane.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -978,24 +3156,93 @@
   "AcceptGift_(TR)FrogEgg": "*Squish* *squish* ... Ewww! Can I have it? Can I have it? Yaaay!$h",
   "AcceptGift_Negative_alcohol_item": "*sniff*... what is this? It smells awful... Mommmm!!!$s",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Vincent.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Vincent.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Vincent.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Vincent.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Vincent.Gift._______": "_______",
+  "i18n.Vincent.Gift.Loved.LowH": "_______",
+  "i18n.Vincent.Gift.Loved.MedH": "_______",
+  "i18n.Vincent.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Vincent.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Vincent.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Vincent.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Vincent.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Vincent.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Vincent.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Vincent.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Vincent.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Vincent.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Vincent.Gift.Liked.LowH": "_______",
+  "i18n.Vincent.Gift.Liked.MedH": "_______",
+  "i18n.Vincent.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Vincent.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Vincent.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Vincent.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Vincent.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Vincent.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Vincent.Gift.Neutral.LowH": "_______",
+  "i18n.Vincent.Gift.Neutral.MedH": "_______",
+  "i18n.Vincent.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Vincent.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Vincent.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Vincent.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Vincent.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Vincent.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Vincent.Gift.Disliked.LowH": "_______",
+  "i18n.Vincent.Gift.Disliked.MedH": "_______",
+  "i18n.Vincent.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Vincent.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Vincent.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Vincent.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Vincent.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Vincent.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Vincent.Gift.Hated.LowH": "_______",
+  "i18n.Vincent.Gift.Hated.MedH": "_______",
+  "i18n.Vincent.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Vincent.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Vincent.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Vincent.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -1011,24 +3258,93 @@
   "AcceptGift_(O)682": "The horror! ...What kind of monster is this?",
   "AcceptGift_(O)336": "*chomp*... Yep, that's real gold alright. Heh! What a gift!$h",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Willy.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Willy.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Willy.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Willy.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Willy.Gift._______": "_______",
+  "i18n.Willy.Gift.Loved.LowH": "_______",
+  "i18n.Willy.Gift.Loved.MedH": "_______",
+  "i18n.Willy.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Willy.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Willy.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Willy.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Willy.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Willy.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Willy.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Willy.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Willy.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Willy.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Willy.Gift.Liked.LowH": "_______",
+  "i18n.Willy.Gift.Liked.MedH": "_______",
+  "i18n.Willy.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Willy.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Willy.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Willy.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Willy.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Willy.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Willy.Gift.Neutral.LowH": "_______",
+  "i18n.Willy.Gift.Neutral.MedH": "_______",
+  "i18n.Willy.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Willy.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Willy.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Willy.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Willy.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Willy.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Willy.Gift.Disliked.LowH": "_______",
+  "i18n.Willy.Gift.Disliked.MedH": "_______",
+  "i18n.Willy.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Willy.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Willy.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Willy.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Willy.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Willy.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Willy.Gift.Hated.LowH": "_______",
+  "i18n.Willy.Gift.Hated.MedH": "_______",
+  "i18n.Willy.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Willy.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Willy.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Willy.Gift.Item/Category.Reject": "_______",
   //
   //
   //================================================================================================================================================================//
@@ -1038,24 +3354,93 @@
   /* VANILLA:
   "AcceptGift_(O)StardropTea": "Ah, what do we have here? A rare and potent elixir, it seems. Yes, this will make a fine addition to my reagent chest.",
   */
-  //--------------GIFTS--------------//
-  //-----LOVED-----//
-  "i18n.Wizard.Gift._______": "_______",
+  //--------------LOVED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Wizard.BirthdayGift.Loved.LowH": "_______",
+  "i18n.Wizard.BirthdayGift.Loved.MedH": "_______",
+  "i18n.Wizard.BirthdayGift.Loved.HighH": "_______",
   //
-  //-----LIKED-----//
-  "i18n.Wizard.Gift._______": "_______",
+  "i18n.Wizard.Gift.Loved.LowH": "_______",
+  "i18n.Wizard.Gift.Loved.MedH": "_______",
+  "i18n.Wizard.Gift.Loved.HighH": "_______",
   //
-  //-----NEUTRAL-----//
-  "i18n.Wizard.Gift._______": "_______",
+  //-----CATEGORIES-----//
+  "i18n.Wizard.Gift.Category.Loved": "_______",
   //
-  //-----DISLIKED-----//
-  "i18n.Wizard.Gift._______": "_______",
+  //-----ITEMS-----//
+  "i18n.Wizard.Gift.Item.Loved": "_______",
   //
-  //-----HATED-----//
-  "i18n.Wizard.Gift._______": "_______",
   //
-  //-----REJECT-----//
-  "i18n.Wizard.Gift._______": "_______",
+  //--------------LIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Wizard.BirthdayGift.Liked.LowH": "_______",
+  "i18n.Wizard.BirthdayGift.Liked.MedH": "_______",
+  "i18n.Wizard.BirthdayGift.Liked.HighH": "_______",
+  //
+  "i18n.Wizard.Gift.Liked.LowH": "_______",
+  "i18n.Wizard.Gift.Liked.MedH": "_______",
+  "i18n.Wizard.Gift.Liked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Wizard.Gift.Category.Liked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Wizard.Gift.Item.Liked": "_______",
+  //
+  //
+  //--------------NEUTRAL--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Wizard.BirthdayGift.Neutral.LowH": "_______",
+  "i18n.Wizard.BirthdayGift.Neutral.MedH": "_______",
+  "i18n.Wizard.BirthdayGift.Neutral.HighH": "_______",
+  //
+  "i18n.Wizard.Gift.Neutral.LowH": "_______",
+  "i18n.Wizard.Gift.Neutral.MedH": "_______",
+  "i18n.Wizard.Gift.Neutral.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Wizard.Gift.Category.Neutral": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Wizard.Gift.Item.Neutral": "_______",
+  //
+  //
+  //--------------DISLIKED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Wizard.BirthdayGift.Disliked.LowH": "_______",
+  "i18n.Wizard.BirthdayGift.Disliked.MedH": "_______",
+  "i18n.Wizard.BirthdayGift.Disliked.HighH": "_______",
+  //
+  "i18n.Wizard.Gift.Disliked.LowH": "_______",
+  "i18n.Wizard.Gift.Disliked.MedH": "_______",
+  "i18n.Wizard.Gift.Disliked.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Wizard.Gift.Category.Disliked": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Wizard.Gift.Item.Disliked": "_______",
+  //
+  //
+  //--------------HATED--------------//
+  //-----UNIVERSALS-----//
+  "i18n.Wizard.BirthdayGift.Hated.LowH": "_______",
+  "i18n.Wizard.BirthdayGift.Hated.MedH": "_______",
+  "i18n.Wizard.BirthdayGift.Hated.HighH": "_______",
+  //
+  "i18n.Wizard.Gift.Hated.LowH": "_______",
+  "i18n.Wizard.Gift.Hated.MedH": "_______",
+  "i18n.Wizard.Gift.Hated.HighH": "_______",
+  //
+  //-----CATEGORIES-----//
+  "i18n.Wizard.Gift.Category.Hated": "_______",
+  //
+  //-----ITEMS-----//
+  "i18n.Wizard.Gift.Item.Hated": "_______",
+  //
+  //
+  //--------------REJECT--------------//
+  "i18n.Wizard.Gift.Item/Category.Reject": "_______",
   //
   //
 }
