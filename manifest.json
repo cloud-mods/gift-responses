@@ -1,9 +1,9 @@
 {
-    "Name": "[CP] Dynamic Gift Responses",
-    "Author": "HeadInTheClouds and Xyaria",
+    "Name": "[CP] Absurdly Detailed Gift Responses",
+    "Author": "HeadInTheClouds and Friends",
     "Version": "1.0",
     "Description": "",
-    "UniqueID": "HeadInTheClouds+Xyaria.DynamicGiftResponses",
+    "UniqueID": "HeadInTheClouds.GiftResponses",
     "UpdateKeys": [
         "Nexus:_____"
     ],

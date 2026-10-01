@@ -18,6 +18,22 @@
 			]
 		},
 		*/
+		{ //UNIVERAL LIKE
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"TextOperations": [
+				{
+					"Operation": "Append",
+					"Target": [
+						"Fields",
+						"Universal_Like", //NPC NAME
+						"0"
+					],
+					"Value": "category_minerals ", // broken CD
+					"Delimiter": " "
+				},
+			]
+		},
 		{ //SAM LIKED
 			"Action": "EditData",
 			"Target": "Data/NPCGiftTastes",
