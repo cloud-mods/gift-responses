@@ -1,0 +1,1079 @@
+{
+	// Commented out tokens is when vanilla version doesn't use positive/negative like all other NPCs
+	// When I GOTOed one, it means I have put the vanilla reaction in another token
+	// I kept it to know about this particularity in case things get overwritten, and in case we want to keep the more granular tastes in the specificgiftchanges.json
+	
+	//================================================================================================================================================================//
+	//?Robin//
+	//================================================================================================================================================================//
+	"Robin.Gift.Loved.LowH": "This is for me? Wow, you chose well, I absolutely love it!!",
+	"Robin.Gift.Loved.MedH": "Another gift? Wow, I absolutely love it!!",
+	"Robin.Gift.Loved.HighH": "You have a gift? Wow, you know me so well, I absolutely love it!!",
+
+	"Robin.Gift.Liked.LowH": "Thanks! This is really nice!",
+	"Robin.Gift.Liked.MedH": "Thanks! This is really nice!",
+	"Robin.Gift.Liked.HighH": "Thanks! This is really nice, as always!",
+
+	"Robin.Gift.Neutral.LowH": "Thank you. This might come in handy.",
+	"Robin.Gift.Neutral.MedH": "Thank you. This will surely come in handy.",
+	"Robin.Gift.Neutral.HighH": "Thank you. You always know what might come in handy.",
+
+	"Robin.Gift.Disliked.LowH": "Um... it's not my thing.",
+	"Robin.Gift.Disliked.MedH": "Um... why?",
+	"Robin.Gift.Disliked.HighH": "Um... don't you know me better?",
+
+	"Robin.Gift.Hated.LowH": "What the...? This is terrible!",
+	"Robin.Gift.Hated.MedH": "What the...? This is terrible! Come on @...",
+	"Robin.Gift.Hated.HighH": "What the...? This is terrible! I thought you knew me better!",
+
+	"Robin.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Robin.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Robin.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Robin.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Robin.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Robin.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Demetrius//
+	//================================================================================================================================================================//
+	"Demetrius.Gift.Loved.LowH": "You're giving this to me? This is amazing!",
+	"Demetrius.Gift.Loved.MedH": "You're giving this to me? This is amazing!",
+	"Demetrius.Gift.Loved.HighH": "You're giving this to me? This is amazing!",
+
+	"Demetrius.Gift.Liked.LowH": "Thank you! This is a very interesting specimen.",
+	"Demetrius.Gift.Liked.MedH": "Thank you! This is a very interesting specimen.",
+	"Demetrius.Gift.Liked.HighH": "Thank you! This is a very interesting specimen.",
+
+	"Demetrius.Gift.Neutral.LowH": "That was very thoughtful of you.",
+	"Demetrius.Gift.Neutral.MedH": "That was very thoughtful of you.",
+	"Demetrius.Gift.Neutral.HighH": "That was very thoughtful of you.",
+
+	"Demetrius.Gift.Disliked.LowH": "...What is this?",
+	"Demetrius.Gift.Disliked.MedH": "...What is this?",
+	"Demetrius.Gift.Disliked.HighH": "...What is this?",
+
+	"Demetrius.Gift.Hated.LowH": "This is disgusting.",
+	"Demetrius.Gift.Hated.MedH": "This is disgusting.",
+	"Demetrius.Gift.Hated.HighH": "This is disgusting.",
+
+	"Demetrius.AcceptBirthdayGift_Positive.LowH": "A present!... with optimal timing. Today is the anniversary of my birth. Thank you!$h",
+	"Demetrius.AcceptBirthdayGift_Positive.MedH": "A present!... with optimal timing. Today is the anniversary of my birth. Thank you!$h",
+	"Demetrius.AcceptBirthdayGift_Positive.HighH": "A present!... with optimal timing. Today is the anniversary of my birth. Thank you!$h",
+	
+	"Demetrius.AcceptBirthdayGift_Negative.LowH": "A present!... with optimal timing. Today is the anniversary of my birth.$h#$b#Let's see what it is... $h#$b#...Oh.$s",
+	"Demetrius.AcceptBirthdayGift_Negative.MedH": "A present!... with optimal timing. Today is the anniversary of my birth.$h#$b#Let's see what it is... $h#$b#...Oh.$s",
+	"Demetrius.AcceptBirthdayGift_Negative.HighH": "A present!... with optimal timing. Today is the anniversary of my birth.$h#$b#Let's see what it is... $h#$b#...Oh.$s",
+	
+	//================================================================================================================================================================//
+	//!Maru//
+	//================================================================================================================================================================//
+	"Maru.Gift.Loved.LowH": "Is that...? Oh wow, @! This is spectacular!",
+	"Maru.Gift.Loved.MedH": "Is that...? Oh wow, @! This is spectacular!",
+	"Maru.Gift.Loved.HighH": "Is that...? Oh wow, @! This is spectacular!",
+
+	"Maru.Gift.Liked.LowH": "This is a super gift! Thank you!",
+	"Maru.Gift.Liked.MedH": "This is a super gift! Thank you!",
+	"Maru.Gift.Liked.HighH": "This is a super gift! Thank you!",
+
+	"Maru.Gift.Neutral.LowH": "Thanks.",
+	"Maru.Gift.Neutral.MedH": "Thanks.",
+	"Maru.Gift.Neutral.HighH": "Thanks.",
+
+	"Maru.Gift.Disliked.LowH": "Oh... That's for me? I'll just put it over here...",
+	"Maru.Gift.Disliked.MedH": "Oh... That's for me? I'll just put it over here...",
+	"Maru.Gift.Disliked.HighH": "Oh... That's for me? I'll just put it over here...",
+
+	"Maru.Gift.Hated.LowH": "Yuck! You thought I would like this?",
+	"Maru.Gift.Hated.MedH": "Yuck! You thought I would like this?",
+	"Maru.Gift.Hated.HighH": "Yuck! You thought I would like this?",
+
+	"Maru.AcceptBirthdayGift_Positive.LowH": "Hey, what's this, a birthday gift? It's great! Thanks for remembering me!$h",
+	"Maru.AcceptBirthdayGift_Positive.MedH": "Hey, what's this, a birthday gift? It's great! Thanks for remembering me!$h",
+	"Maru.AcceptBirthdayGift_Positive.HighH": "Hey, what's this, a birthday gift? It's great! Thanks for remembering me!$h",
+	
+	"Maru.AcceptBirthdayGift_Negative.LowH": "Hey, what's this, a birthday gift? It's... uh, well, it's a gift! Thanks for remembering me, anyway.",
+	"Maru.AcceptBirthdayGift_Negative.MedH": "Hey, what's this, a birthday gift? It's... uh, well, it's a gift! Thanks for remembering me, anyway.",
+	"Maru.AcceptBirthdayGift_Negative.HighH": "Hey, what's this, a birthday gift? It's... uh, well, it's a gift! Thanks for remembering me, anyway.",
+	
+	//================================================================================================================================================================//
+	//!Sebastian//
+	//================================================================================================================================================================//
+	"Sebastian.Gift.Loved.LowH": "I really love this. How did you know?",
+	"Sebastian.Gift.Loved.MedH": "I really love this. How did you know?",
+	"Sebastian.Gift.Loved.HighH": "I really love this. How did you know?",
+
+	"Sebastian.Gift.Liked.LowH": "Thanks, I like this.",
+	"Sebastian.Gift.Liked.MedH": "Thanks, I like this.",
+	"Sebastian.Gift.Liked.HighH": "Thanks, I like this.",
+
+	"Sebastian.Gift.Neutral.LowH": "...thanks.",
+	"Sebastian.Gift.Neutral.MedH": "...thanks.",
+	"Sebastian.Gift.Neutral.HighH": "...thanks.",
+
+	"Sebastian.Gift.Disliked.LowH": "...?",
+	"Sebastian.Gift.Disliked.MedH": "...?",
+	"Sebastian.Gift.Disliked.HighH": "...?",
+
+	"Sebastian.Gift.Hated.LowH": "...I hate this.",
+	"Sebastian.Gift.Hated.MedH": "...I hate this.",
+	"Sebastian.Gift.Hated.HighH": "...I hate this.",
+
+	"Sebastian.AcceptBirthdayGift_Positive.LowH": "Oh, really? I wasn't expecting this. It looks great, though. Thank you.$h",
+	"Sebastian.AcceptBirthdayGift_Positive.MedH": "Oh, really? I wasn't expecting this. It looks great, though. Thank you.$h",
+	"Sebastian.AcceptBirthdayGift_Positive.HighH": "Oh, really? I wasn't expecting this. It looks great, though. Thank you.$h",
+	
+	"Sebastian.AcceptBirthdayGift_Negative.LowH": "Uhh... well, I appreciate the thought.",
+	"Sebastian.AcceptBirthdayGift_Negative.MedH": "Uhh... well, I appreciate the thought.",
+	"Sebastian.AcceptBirthdayGift_Negative.HighH": "Uhh... well, I appreciate the thought.",
+	
+	//================================================================================================================================================================//
+	//!Linus//
+	//================================================================================================================================================================//
+	"Linus.Gift.Loved.LowH": "This is wonderful! You've really made my day special.",
+	"Linus.Gift.Loved.MedH": "This is wonderful! You've really made my day special.",
+	"Linus.Gift.Loved.HighH": "This is wonderful! You've really made my day special.",
+
+	"Linus.Gift.Liked.LowH": "This is a great gift. Thank you!",
+	"Linus.Gift.Liked.MedH": "This is a great gift. Thank you!",
+	"Linus.Gift.Liked.HighH": "This is a great gift. Thank you!",
+
+	"Linus.Gift.Neutral.LowH": "A gift? How nice.",
+	"Linus.Gift.Neutral.MedH": "A gift? How nice.",
+	"Linus.Gift.Neutral.HighH": "A gift? How nice.",
+
+	"Linus.Gift.Disliked.LowH": "Hmm... This doesn't really do much for me.",
+	"Linus.Gift.Disliked.MedH": "Hmm... This doesn't really do much for me.",
+	"Linus.Gift.Disliked.HighH": "Hmm... This doesn't really do much for me.",
+
+	"Linus.Gift.Hated.LowH": "Why would you give this to me? Do you think I like junk just because I live in a tent? That's terrible.",
+	"Linus.Gift.Hated.MedH": "Why would you give this to me? Do you think I like junk just because I live in a tent? That's terrible.",
+	"Linus.Gift.Hated.HighH": "Why would you give this to me? Do you think I like junk just because I live in a tent? That's terrible.",
+
+	"Linus.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Linus.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Linus.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Linus.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Linus.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Linus.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Pierre//
+	//================================================================================================================================================================//
+	"Pierre.Gift.Loved.LowH": "This is my all-time favorite! Thank you!",
+	"Pierre.Gift.Loved.MedH": "This is my all-time favorite! Thank you!",
+	"Pierre.Gift.Loved.HighH": "This is my all-time favorite! Thank you!",
+
+	"Pierre.Gift.Liked.LowH": "That's very kind of you. I like this.",
+	"Pierre.Gift.Liked.MedH": "That's very kind of you. I like this.",
+	"Pierre.Gift.Liked.HighH": "That's very kind of you. I like this.",
+
+	"Pierre.Gift.Neutral.LowH": "A present? Thanks!",
+	"Pierre.Gift.Neutral.MedH": "A present? Thanks!",
+	"Pierre.Gift.Neutral.HighH": "A present? Thanks!",
+
+	"Pierre.Gift.Disliked.LowH": "This isn't exactly my favorite...",
+	"Pierre.Gift.Disliked.MedH": "This isn't exactly my favorite...",
+	"Pierre.Gift.Disliked.HighH": "This isn't exactly my favorite...",
+
+	"Pierre.Gift.Hated.LowH": "Please, never bring this to me again.",
+	"Pierre.Gift.Hated.MedH": "Please, never bring this to me again.",
+	"Pierre.Gift.Hated.HighH": "Please, never bring this to me again.",
+
+	"Pierre.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Pierre.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Pierre.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Pierre.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Pierre.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Pierre.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Caroline//
+	//================================================================================================================================================================//
+	"Caroline.Gift.Loved.LowH": "Oh, @... you're spoiling me! I love it!",
+	"Caroline.Gift.Loved.MedH": "Oh, @... you're spoiling me! I love it!",
+	"Caroline.Gift.Loved.HighH": "Oh, @... you're spoiling me! I love it!",
+
+	"Caroline.Gift.Liked.LowH": "For me? This is such a thoughtful gift! Thank you!",
+	"Caroline.Gift.Liked.MedH": "For me? This is such a thoughtful gift! Thank you!",
+	"Caroline.Gift.Liked.HighH": "For me? This is such a thoughtful gift! Thank you!",
+
+	"Caroline.Gift.Neutral.LowH": "Oh, that's sweet. Thank you.",
+	"Caroline.Gift.Neutral.MedH": "Oh, that's sweet. Thank you.",
+	"Caroline.Gift.Neutral.HighH": "Oh, that's sweet. Thank you.",
+
+	"Caroline.Gift.Disliked.LowH": "Oh... I see. I'll, uh... make sure to put it to good use...",
+	"Caroline.Gift.Disliked.MedH": "Oh... I see. I'll, uh... make sure to put it to good use...",
+	"Caroline.Gift.Disliked.HighH": "Oh... I see. I'll, uh... make sure to put it to good use...",
+
+	"Caroline.Gift.Hated.LowH": "Um... I guess I could use it for compost...",
+	"Caroline.Gift.Hated.MedH": "Um... I guess I could use it for compost...",
+	"Caroline.Gift.Hated.HighH": "Um... I guess I could use it for compost...",
+
+	"Caroline.AcceptBirthdayGift_Positive.LowH": "Thanks, sweetie. That's very kind of you to remember my birthday.$h",
+	"Caroline.AcceptBirthdayGift_Positive.MedH": "Thanks, sweetie. That's very kind of you to remember my birthday.$h",
+	"Caroline.AcceptBirthdayGift_Positive.HighH": "Thanks, sweetie. That's very kind of you to remember my birthday.$h",
+	
+	"Caroline.AcceptBirthdayGift_Negative.LowH": "Oh... is that... a birthday gift? I see... well, thanks for stopping by.$a",
+	"Caroline.AcceptBirthdayGift_Negative.MedH": "Oh... is that... a birthday gift? I see... well, thanks for stopping by.$a",
+	"Caroline.AcceptBirthdayGift_Negative.HighH": "Oh... is that... a birthday gift? I see... well, thanks for stopping by.$a",
+	
+	//================================================================================================================================================================//
+	//!Abigail//
+	//================================================================================================================================================================//
+	"Abigail.Gift.Loved.LowH": "I seriously love this! You're the best, @!",
+	"Abigail.Gift.Loved.MedH": "I seriously love this! You're the best, @!",
+	"Abigail.Gift.Loved.HighH": "I seriously love this! You're the best, @!",
+
+	"Abigail.Gift.Liked.LowH": "Hey, how'd you know I was hungry? This looks delicious!",
+	"Abigail.Gift.Liked.MedH": "Hey, how'd you know I was hungry? This looks delicious!",
+	"Abigail.Gift.Liked.HighH": "Hey, how'd you know I was hungry? This looks delicious!",
+
+	"Abigail.Gift.Neutral.LowH": "You brought me a present? Thanks.",
+	"Abigail.Gift.Neutral.MedH": "You brought me a present? Thanks.",
+	"Abigail.Gift.Neutral.HighH": "You brought me a present? Thanks.",
+
+	"Abigail.Gift.Disliked.LowH": "What am I supposed to do with this?",
+	"Abigail.Gift.Disliked.MedH": "What am I supposed to do with this?",
+	"Abigail.Gift.Disliked.HighH": "What am I supposed to do with this?",
+
+	"Abigail.Gift.Hated.LowH": "What were you thinking? This is awful!",
+	"Abigail.Gift.Hated.MedH": "What were you thinking? This is awful!",
+	"Abigail.Gift.Hated.HighH": "What were you thinking? This is awful!",
+
+	"Abigail.AcceptBirthdayGift_Positive.LowH": "Hey, you remembered my birthday... Thanks, @! This is really nice!$h",
+	"Abigail.AcceptBirthdayGift_Positive.MedH": "Hey, you remembered my birthday... Thanks, @! This is really nice!$h",
+	"Abigail.AcceptBirthdayGift_Positive.HighH": "Hey, you remembered my birthday... Thanks, @! This is really nice!$h",
+	
+	"Abigail.AcceptBirthdayGift_Negative.LowH": "Hey, you remembered my birthday... Thanks, @!$h#$b#Oh, it's, uh... *sniff*... what is it?$s",
+	"Abigail.AcceptBirthdayGift_Negative.MedH": "Hey, you remembered my birthday... Thanks, @!$h#$b#Oh, it's, uh... *sniff*... what is it?$s",
+	"Abigail.AcceptBirthdayGift_Negative.HighH": "Hey, you remembered my birthday... Thanks, @!$h#$b#Oh, it's, uh... *sniff*... what is it?$s",
+	
+	//================================================================================================================================================================//
+	//!Alex//
+	//================================================================================================================================================================//
+	"Alex.Gift.Loved.LowH": "Hey, awesome! I love this stuff!",
+	"Alex.Gift.Loved.MedH": "Hey, awesome! I love this stuff!",
+	"Alex.Gift.Loved.HighH": "Hey, awesome! I love this stuff!",
+
+	"Alex.Gift.Liked.LowH": "This is cool! Thanks.",
+	"Alex.Gift.Liked.MedH": "This is cool! Thanks.",
+	"Alex.Gift.Liked.HighH": "This is cool! Thanks.",
+
+	"Alex.Gift.Neutral.LowH": "Thanks!",
+	"Alex.Gift.Neutral.MedH": "Thanks!",
+	"Alex.Gift.Neutral.HighH": "Thanks!",
+
+	"Alex.Gift.Disliked.LowH": "Um... Okay. Thanks.",
+	"Alex.Gift.Disliked.MedH": "Um... Okay. Thanks.",
+	"Alex.Gift.Disliked.HighH": "Um... Okay. Thanks.",
+
+	"Alex.Gift.Hated.LowH": "Are you serious? This is garbage.",
+	"Alex.Gift.Hated.MedH": "Are you serious? This is garbage.",
+	"Alex.Gift.Hated.HighH": "Are you serious? This is garbage.",
+
+	"Alex.AcceptBirthdayGift_Positive.LowH": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @.",
+	"Alex.AcceptBirthdayGift_Positive.MedH": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @.",
+	"Alex.AcceptBirthdayGift_Positive.HighH": "Aw yeah, that's the good stuff... Thanks for the birthday gift, @.",
+	
+	"Alex.AcceptBirthdayGift_Negative.LowH": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is trash.$a",
+	"Alex.AcceptBirthdayGift_Negative.MedH": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is trash.$a",
+	"Alex.AcceptBirthdayGift_Negative.HighH": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is trash.$a",
+	
+	//================================================================================================================================================================//
+	//!George//
+	//================================================================================================================================================================//
+	"George.Gift.Loved.LowH": "This is my favorite thing! Thank you.",
+	"George.Gift.Loved.MedH": "This is my favorite thing! Thank you.",
+	"George.Gift.Loved.HighH": "This is my favorite thing! Thank you.",
+
+	"George.Gift.Liked.LowH": "Thanks.",
+	"George.Gift.Liked.MedH": "Thanks.",
+	"George.Gift.Liked.HighH": "Thanks.",
+
+	"George.Gift.Neutral.LowH": "A gift? Hmm...#$e#Do you want something in return?",
+	"George.Gift.Neutral.MedH": "A gift? Hmm...#$e#Do you want something in return?",
+	"George.Gift.Neutral.HighH": "A gift? Hmm...#$e#Do you want something in return?",
+
+	"George.Gift.Disliked.LowH": "That's a terrible gift.",
+	"George.Gift.Disliked.MedH": "That's a terrible gift.",
+	"George.Gift.Disliked.HighH": "That's a terrible gift.",
+
+	"George.Gift.Hated.LowH": "This is probably the worst gift I've ever seen. Thanks a lot.",
+	"George.Gift.Hated.MedH": "This is probably the worst gift I've ever seen. Thanks a lot.",
+	"George.Gift.Hated.HighH": "This is probably the worst gift I've ever seen. Thanks a lot.",
+
+	"George.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"George.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"George.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"George.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"George.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"George.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Evelyn//
+	//================================================================================================================================================================//
+	"Evelyn.Gift.Loved.LowH": "*gasp*... This is absolutely marvelous!$u#$e#You've made an old lady very happy.",
+	"Evelyn.Gift.Loved.MedH": "*gasp*... This is absolutely marvelous!$u#$e#You've made an old lady very happy.",
+	"Evelyn.Gift.Loved.HighH": "*gasp*... This is absolutely marvelous!$u#$e#You've made an old lady very happy.",
+
+	"Evelyn.Gift.Liked.LowH": "Oh my, it looks wonderful! That's very kind of you.",
+	"Evelyn.Gift.Liked.MedH": "Oh my, it looks wonderful! That's very kind of you.",
+	"Evelyn.Gift.Liked.HighH": "Oh my, it looks wonderful! That's very kind of you.",
+
+	"Evelyn.Gift.Neutral.LowH": "How nice. Thank you, dear.",
+	"Evelyn.Gift.Neutral.MedH": "How nice. Thank you, dear.",
+	"Evelyn.Gift.Neutral.HighH": "How nice. Thank you, dear.",
+
+	"Evelyn.Gift.Disliked.LowH": "Um, Where will I put this?",
+	"Evelyn.Gift.Disliked.MedH": "Um, Where will I put this?",
+	"Evelyn.Gift.Disliked.HighH": "Um, Where will I put this?",
+
+	"Evelyn.Gift.Hated.LowH": "...it smells awful.",
+	"Evelyn.Gift.Hated.MedH": "...it smells awful.",
+	"Evelyn.Gift.Hated.HighH": "...it smells awful.",
+
+	"Evelyn.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Evelyn.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Evelyn.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Evelyn.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Evelyn.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Evelyn.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Lewis//
+	//================================================================================================================================================================//
+	"Lewis.Gift.Loved.LowH": "Wow, this is my favorite! Thank you!",
+	"Lewis.Gift.Loved.MedH": "Wow, this is my favorite! Thank you!",
+	"Lewis.Gift.Loved.HighH": "Wow, this is my favorite! Thank you!",
+
+	"Lewis.Gift.Liked.LowH": "Thanks, this is great!",
+	"Lewis.Gift.Liked.MedH": "Thanks, this is great!",
+	"Lewis.Gift.Liked.HighH": "Thanks, this is great!",
+
+	"Lewis.Gift.Neutral.LowH": "That's very nice of you. Thanks.",
+	"Lewis.Gift.Neutral.MedH": "That's very nice of you. Thanks.",
+	"Lewis.Gift.Neutral.HighH": "That's very nice of you. Thanks.",
+
+	"Lewis.Gift.Disliked.LowH": "Well, I guess it's the thought that counts...",
+	"Lewis.Gift.Disliked.MedH": "Well, I guess it's the thought that counts...",
+	"Lewis.Gift.Disliked.HighH": "Well, I guess it's the thought that counts...",
+
+	"Lewis.Gift.Hated.LowH": "This makes me sick. What a horrendous gift.",
+	"Lewis.Gift.Hated.MedH": "This makes me sick. What a horrendous gift.",
+	"Lewis.Gift.Hated.HighH": "This makes me sick. What a horrendous gift.",
+
+	"Lewis.AcceptBirthdayGift_Positive.LowH": "Ah, you remembered the old mayor's birthday. That's very thoughtful of you. And it's a nice gift!$h",
+	"Lewis.AcceptBirthdayGift_Positive.MedH": "Ah, you remembered the old mayor's birthday. That's very thoughtful of you. And it's a nice gift!$h",
+	"Lewis.AcceptBirthdayGift_Positive.HighH": "Ah, you remembered the old mayor's birthday. That's very thoughtful of you. And it's a nice gift!$h",
+	
+	"Lewis.AcceptBirthdayGift_Negative.LowH": "Ah, you remembered the old mayor's birthday... what's this?$h#$b#Um... well you know what they say, 'it's the thought that counts'.",
+	"Lewis.AcceptBirthdayGift_Negative.MedH": "Ah, you remembered the old mayor's birthday... what's this?$h#$b#Um... well you know what they say, 'it's the thought that counts'.",
+	"Lewis.AcceptBirthdayGift_Negative.HighH": "Ah, you remembered the old mayor's birthday... what's this?$h#$b#Um... well you know what they say, 'it's the thought that counts'.",
+	
+	//================================================================================================================================================================//
+	//!Clint//
+	//================================================================================================================================================================//
+	"Clint.Gift.Loved.LowH": "Yes! This is exactly what I've been looking for!",
+	"Clint.Gift.Loved.MedH": "Yes! This is exactly what I've been looking for!",
+	"Clint.Gift.Loved.HighH": "Yes! This is exactly what I've been looking for!",
+
+	"Clint.Gift.Liked.LowH": "This is a fun gift. Thanks!",
+	"Clint.Gift.Liked.MedH": "This is a fun gift. Thanks!",
+	"Clint.Gift.Liked.HighH": "This is a fun gift. Thanks!",
+
+	"Clint.Gift.Neutral.LowH": "Thanks.",
+	"Clint.Gift.Neutral.MedH": "Thanks.",
+	"Clint.Gift.Neutral.HighH": "Thanks.",
+
+	"Clint.Gift.Disliked.LowH": "*Sigh*...",
+	"Clint.Gift.Disliked.MedH": "*Sigh*...",
+	"Clint.Gift.Disliked.HighH": "*Sigh*...",
+
+	"Clint.Gift.Hated.LowH": "This makes me depressed.",
+	"Clint.Gift.Hated.MedH": "This makes me depressed.",
+	"Clint.Gift.Hated.HighH": "This makes me depressed.",
+
+	"Clint.AcceptBirthdayGift_Positive.LowH": "I don't usually get birthday gifts. This actually means a lot, @. Thank you.",
+	"Clint.AcceptBirthdayGift_Positive.MedH": "I don't usually get birthday gifts. This actually means a lot, @. Thank you.",
+	"Clint.AcceptBirthdayGift_Positive.HighH": "I don't usually get birthday gifts. This actually means a lot, @. Thank you.",
+	
+	"Clint.AcceptBirthdayGift_Negative.LowH": "Is this a birthday gift? It's, uh... an interesting choice. Well I appreciate that you remembered me, anyway.",
+	"Clint.AcceptBirthdayGift_Negative.MedH": "Is this a birthday gift? It's, uh... an interesting choice. Well I appreciate that you remembered me, anyway.",
+	"Clint.AcceptBirthdayGift_Negative.HighH": "Is this a birthday gift? It's, uh... an interesting choice. Well I appreciate that you remembered me, anyway.",
+	
+	//================================================================================================================================================================//
+	//!Penny//
+	//================================================================================================================================================================//
+	"Penny.Gift.Loved.LowH": "Thank you! I really love this!",
+	"Penny.Gift.Loved.MedH": "Thank you! I really love this!",
+	"Penny.Gift.Loved.HighH": "Thank you! I really love this!",
+
+	"Penny.Gift.Liked.LowH": "Thank you! This looks special.",
+	"Penny.Gift.Liked.MedH": "Thank you! This looks special.",
+	"Penny.Gift.Liked.HighH": "Thank you! This looks special.",
+
+	"Penny.Gift.Neutral.LowH": "Thanks, this looks nice.",
+	"Penny.Gift.Neutral.MedH": "Thanks, this looks nice.",
+	"Penny.Gift.Neutral.HighH": "Thanks, this looks nice.",
+
+	"Penny.Gift.Disliked.LowH": "Uh, it's for me? ...Thanks.",
+	"Penny.Gift.Disliked.MedH": "Uh, it's for me? ...Thanks.",
+	"Penny.Gift.Disliked.HighH": "Uh, it's for me? ...Thanks.",
+
+	"Penny.Gift.Hated.LowH": "Ugh...I'm sorry, but I absolutely hate this.",
+	"Penny.Gift.Hated.MedH": "Ugh...I'm sorry, but I absolutely hate this.",
+	"Penny.Gift.Hated.HighH": "Ugh...I'm sorry, but I absolutely hate this.",
+
+	// "Penny.AcceptBirthdayGift_Loved.LowH": "Oh! Is this for me? For... for my birthday?$3#$b#*sniff*... Sorry.$s#$b#I'm... just not used to such kindness...#$b#... I love it, though. It's perfect. Thank you so much.",
+	// "Penny.AcceptBirthdayGift_Loved.MedH": "Oh! Is this for me? For... for my birthday?$3#$b#*sniff*... Sorry.$s#$b#I'm... just not used to such kindness...#$b#... I love it, though. It's perfect. Thank you so much.",
+	// "Penny.AcceptBirthdayGift_Loved.HighH": "Oh! Is this for me? For... for my birthday?$3#$b#*sniff*... Sorry.$s#$b#I'm... just not used to such kindness...#$b#... I love it, though. It's perfect. Thank you so much.",
+
+	"Penny.AcceptBirthdayGift_Positive.LowH": "For my birthday? That's so nice of you! It's a great gift.$h",
+	"Penny.AcceptBirthdayGift_Positive.MedH": "For my birthday? That's so nice of you! It's a great gift.$h",
+	"Penny.AcceptBirthdayGift_Positive.HighH": "For my birthday? That's so nice of you! It's a great gift.$h",
+	
+	"Penny.AcceptBirthdayGift_Negative.LowH": "For my birthday? That's so kind of you! Let me unwrap it...$h#$b#...What!?$12#$b#...Oh, I see. It's a cruel joke.$s#$b#Silly me, I should've known better...$s",
+	"Penny.AcceptBirthdayGift_Negative.MedH": "For my birthday? That's so kind of you! Let me unwrap it...$h#$b#...What!?$12#$b#...Oh, I see. It's a cruel joke.$s#$b#Silly me, I should've known better...$s",
+	"Penny.AcceptBirthdayGift_Negative.HighH": "For my birthday? That's so kind of you! Let me unwrap it...$h#$b#...What!?$12#$b#...Oh, I see. It's a cruel joke.$s#$b#Silly me, I should've known better...$s",
+	
+	//================================================================================================================================================================//
+	//!Pam//
+	//================================================================================================================================================================//
+	"Pam.Gift.Loved.LowH": "Hey, hey! Now this is really something! Thanks a million, kid.",
+	"Pam.Gift.Loved.MedH": "Hey, hey! Now this is really something! Thanks a million, kid.",
+	"Pam.Gift.Loved.HighH": "Hey, hey! Now this is really something! Thanks a million, kid.",
+
+	"Pam.Gift.Liked.LowH": "You did good with this one, kid. Thanks!",
+	"Pam.Gift.Liked.MedH": "You did good with this one, kid. Thanks!",
+	"Pam.Gift.Liked.HighH": "You did good with this one, kid. Thanks!",
+
+	"Pam.Gift.Neutral.LowH": "Thanks, kid.",
+	"Pam.Gift.Neutral.MedH": "Thanks, kid.",
+	"Pam.Gift.Neutral.HighH": "Thanks, kid.",
+
+	"Pam.Gift.Disliked.LowH": "This just ain't my thing.",
+	"Pam.Gift.Disliked.MedH": "This just ain't my thing.",
+	"Pam.Gift.Disliked.HighH": "This just ain't my thing.",
+
+	"Pam.Gift.Hated.LowH": "Now this is just absolutely despicable.$u#$e#(Is this some kind of mean joke?)",
+	"Pam.Gift.Hated.MedH": "Now this is just absolutely despicable.$u#$e#(Is this some kind of mean joke?)",
+	"Pam.Gift.Hated.HighH": "Now this is just absolutely despicable.$u#$e#(Is this some kind of mean joke?)",
+
+	"Pam.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Pam.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Pam.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Pam.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Pam.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Pam.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Emily//
+	//================================================================================================================================================================//
+	"Emily.Gift.Loved.LowH": "This gift is fabulous! Thank you so much!",
+	"Emily.Gift.Loved.MedH": "This gift is fabulous! Thank you so much!",
+	"Emily.Gift.Loved.HighH": "This gift is fabulous! Thank you so much!",
+
+	"Emily.Gift.Liked.LowH": "Thank you! I'm feeling a positive energy from this gift.",
+	"Emily.Gift.Liked.MedH": "Thank you! I'm feeling a positive energy from this gift.",
+	"Emily.Gift.Liked.HighH": "Thank you! I'm feeling a positive energy from this gift.",
+
+	"Emily.Gift.Neutral.LowH": "Thanks!",
+	"Emily.Gift.Neutral.MedH": "Thanks!",
+	"Emily.Gift.Neutral.HighH": "Thanks!",
+
+	"Emily.Gift.Disliked.LowH": "Sorry, @. I don't like this.",
+	"Emily.Gift.Disliked.MedH": "Sorry, @. I don't like this.",
+	"Emily.Gift.Disliked.HighH": "Sorry, @. I don't like this.",
+
+	"Emily.Gift.Hated.LowH": "This gift has a strong negative energy. I can't stand it.",
+	"Emily.Gift.Hated.MedH": "This gift has a strong negative energy. I can't stand it.",
+	"Emily.Gift.Hated.HighH": "This gift has a strong negative energy. I can't stand it.",
+
+	"Emily.AcceptBirthdayGift_Positive.LowH": "Oh, you remembered my birthday! Thanks, @! That's really nice of you.$h",
+	"Emily.AcceptBirthdayGift_Positive.MedH": "Oh, you remembered my birthday! Thanks, @! That's really nice of you.$h",
+	"Emily.AcceptBirthdayGift_Positive.HighH": "Oh, you remembered my birthday! Thanks, @! That's really nice of you.$h",
+	
+	"Emily.AcceptBirthdayGift_Negative.LowH": "Oh, you remembered my birthday! Thanks, @! That's really ni--$h#$b#...*sniff*...*sniff*... what is that smell?$s#$b#... What is this...?$s",
+	"Emily.AcceptBirthdayGift_Negative.MedH": "Oh, you remembered my birthday! Thanks, @! That's really ni--$h#$b#...*sniff*...*sniff*... what is that smell?$s#$b#... What is this...?$s",
+	"Emily.AcceptBirthdayGift_Negative.HighH": "Oh, you remembered my birthday! Thanks, @! That's really ni--$h#$b#...*sniff*...*sniff*... what is that smell?$s#$b#... What is this...?$s",
+	
+	//================================================================================================================================================================//
+	//!Haley//
+	//================================================================================================================================================================//
+	"Haley.Gift.Loved.LowH": "Oh my god, this is my favorite thing!!",
+	"Haley.Gift.Loved.MedH": "Oh my god, this is my favorite thing!!",
+	"Haley.Gift.Loved.HighH": "Oh my god, this is my favorite thing!!",
+
+	"Haley.Gift.Liked.LowH": "*gasp*...for me? Thank you!",
+	"Haley.Gift.Liked.MedH": "*gasp*...for me? Thank you!",
+	"Haley.Gift.Liked.HighH": "*gasp*...for me? Thank you!",
+
+	"Haley.Gift.Neutral.LowH": "Thank you. I love presents.",
+	"Haley.Gift.Neutral.MedH": "Thank you. I love presents.",
+	"Haley.Gift.Neutral.HighH": "Thank you. I love presents.",
+
+	"Haley.Gift.Disliked.LowH": "Ugh...that's such a stupid gift.",
+	"Haley.Gift.Disliked.MedH": "Ugh...that's such a stupid gift.",
+	"Haley.Gift.Disliked.HighH": "Ugh...that's such a stupid gift.",
+
+	"Haley.Gift.Hated.LowH": "Gross!",
+	"Haley.Gift.Hated.MedH": "Gross!",
+	"Haley.Gift.Hated.HighH": "Gross!",
+
+	// "Haley.AcceptBirthdayGift_Loved.LowH": "*gasp*... You got this for me? Wow, @, this is the best birthday gift ever!$h",
+	// "Haley.AcceptBirthdayGift_Loved.MedH": "*gasp*... You got this for me? Wow, @, this is the best birthday gift ever!$h",
+	// "Haley.AcceptBirthdayGift_Loved.HighH": "*gasp*... You got this for me? Wow, @, this is the best birthday gift ever!$h",
+
+	// "Haley.AcceptBirthdayGift_Liked.LowH": "GOTO AcceptBirthdayGift_Positive",
+	// "Haley.AcceptBirthdayGift_Liked.MedH": "GOTO AcceptBirthdayGift_Positive",
+	// "Haley.AcceptBirthdayGift_Liked.HighH": "GOTO AcceptBirthdayGift_Positive",
+
+	"Haley.AcceptBirthdayGift_Positive.LowH": "Awwwww, you got me a birthday gift? Well, I really like it!$h",
+	"Haley.AcceptBirthdayGift_Positive.MedH": "Awwwww, you got me a birthday gift? Well, I really like it!$h",
+	"Haley.AcceptBirthdayGift_Positive.HighH": "Awwwww, you got me a birthday gift? Well, I really like it!$h",
+
+	"Haley.AcceptBirthdayGift_Negative.LowH": "Gross! You got me this on my birthday? What's wrong with you!$a",
+	"Haley.AcceptBirthdayGift_Negative.MedH": "Gross! You got me this on my birthday? What's wrong with you!$a",
+	"Haley.AcceptBirthdayGift_Negative.HighH": "Gross! You got me this on my birthday? What's wrong with you!$a",
+	
+	//================================================================================================================================================================//
+	//!Jas//
+	//================================================================================================================================================================//
+	"Jas.Gift.Loved.LowH": "*gasp*...Wow!! Thank you!$h",
+	"Jas.Gift.Loved.MedH": "*gasp*...Wow!! Thank you!$h",
+	"Jas.Gift.Loved.HighH": "*gasp*...Wow!! Thank you!$h",
+
+	"Jas.Gift.Liked.LowH": "I love presents! Thank you!",
+	"Jas.Gift.Liked.MedH": "I love presents! Thank you!",
+	"Jas.Gift.Liked.HighH": "I love presents! Thank you!",
+
+	"Jas.Gift.Neutral.LowH": "Thank you!",
+	"Jas.Gift.Neutral.MedH": "Thank you!",
+	"Jas.Gift.Neutral.HighH": "Thank you!",
+
+	"Jas.Gift.Disliked.LowH": "Is this a gift? Oh...$s",
+	"Jas.Gift.Disliked.MedH": "Is this a gift? Oh...$s",
+	"Jas.Gift.Disliked.HighH": "Is this a gift? Oh...$s",
+
+	"Jas.Gift.Hated.LowH": "Ew. This is icky.$s",
+	"Jas.Gift.Hated.MedH": "Ew. This is icky.$s",
+	"Jas.Gift.Hated.HighH": "Ew. This is icky.$s",
+
+	"Jas.AcceptBirthdayGift_Positive.LowH": "Wow, a birthday present! I love it!$h",
+	"Jas.AcceptBirthdayGift_Positive.MedH": "Wow, a birthday present! I love it!$h",
+	"Jas.AcceptBirthdayGift_Positive.HighH": "Wow, a birthday present! I love it!$h",
+	
+	"Jas.AcceptBirthdayGift_Negative.LowH": "A birthday present? Oh... I don't like this.$s",
+	"Jas.AcceptBirthdayGift_Negative.MedH": "A birthday present? Oh... I don't like this.$s",
+	"Jas.AcceptBirthdayGift_Negative.HighH": "A birthday present? Oh... I don't like this.$s",
+	
+	//================================================================================================================================================================//
+	//!Vincent//
+	//================================================================================================================================================================//
+	"Vincent.Gift.Loved.LowH": "Wow, thank you so much! This is terrific!",
+	"Vincent.Gift.Loved.MedH": "Wow, thank you so much! This is terrific!",
+	"Vincent.Gift.Loved.HighH": "Wow, thank you so much! This is terrific!",
+
+	"Vincent.Gift.Liked.LowH": "For me? Wow, thanks!",
+	"Vincent.Gift.Liked.MedH": "For me? Wow, thanks!",
+	"Vincent.Gift.Liked.HighH": "For me? Wow, thanks!",
+
+	"Vincent.Gift.Neutral.LowH": "Thanks!",
+	"Vincent.Gift.Neutral.MedH": "Thanks!",
+	"Vincent.Gift.Neutral.HighH": "Thanks!",
+
+	"Vincent.Gift.Disliked.LowH": "This isn't very fun...$s",
+	"Vincent.Gift.Disliked.MedH": "This isn't very fun...$s",
+	"Vincent.Gift.Disliked.HighH": "This isn't very fun...$s",
+
+	"Vincent.Gift.Hated.LowH": "Yuck, what is this?$s",
+	"Vincent.Gift.Hated.MedH": "Yuck, what is this?$s",
+	"Vincent.Gift.Hated.HighH": "Yuck, what is this?$s",
+
+	"Vincent.AcceptBirthdayGift_Positive.LowH": "Is that a birthday present? Can I open it now?#$b#Oh, wow! This is exactly what I wanted! Yayayaya!$h",
+	"Vincent.AcceptBirthdayGift_Positive.MedH": "Is that a birthday present? Can I open it now?#$b#Oh, wow! This is exactly what I wanted! Yayayaya!$h",
+	"Vincent.AcceptBirthdayGift_Positive.HighH": "Is that a birthday present? Can I open it now?#$b#Oh, wow! This is exactly what I wanted! Yayayaya!$h",
+	
+	"Vincent.AcceptBirthdayGift_Negative.LowH": "A birthday present? Oh... this isn't very fun.$s",
+	"Vincent.AcceptBirthdayGift_Negative.MedH": "A birthday present? Oh... this isn't very fun.$s",
+	"Vincent.AcceptBirthdayGift_Negative.HighH": "A birthday present? Oh... this isn't very fun.$s",
+	
+	//================================================================================================================================================================//
+	//!Jodi//
+	//================================================================================================================================================================//
+	"Jodi.Gift.Loved.LowH": "Oh, you're such a sweetheart! I really love this!",
+	"Jodi.Gift.Loved.MedH": "Oh, you're such a sweetheart! I really love this!",
+	"Jodi.Gift.Loved.HighH": "Oh, you're such a sweetheart! I really love this!",
+
+	"Jodi.Gift.Liked.LowH": "Thank you! This makes my day really special.",
+	"Jodi.Gift.Liked.MedH": "Thank you! This makes my day really special.",
+	"Jodi.Gift.Liked.HighH": "Thank you! This makes my day really special.",
+
+	"Jodi.Gift.Neutral.LowH": "That's so nice of you! Thanks.",
+	"Jodi.Gift.Neutral.MedH": "That's so nice of you! Thanks.",
+	"Jodi.Gift.Neutral.HighH": "That's so nice of you! Thanks.",
+
+	"Jodi.Gift.Disliked.LowH": "Hmm, well I guess I could always put this in the compost...",
+	"Jodi.Gift.Disliked.MedH": "Hmm, well I guess I could always put this in the compost...",
+	"Jodi.Gift.Disliked.HighH": "Hmm, well I guess I could always put this in the compost...",
+
+	"Jodi.Gift.Hated.LowH": "*Blech*... I hate this...",
+	"Jodi.Gift.Hated.MedH": "*Blech*... I hate this...",
+	"Jodi.Gift.Hated.HighH": "*Blech*... I hate this...",
+
+	"Jodi.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Jodi.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Jodi.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Jodi.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Jodi.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Jodi.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Kent//
+	//================================================================================================================================================================//
+	"Kent.Gift.Loved.LowH": "Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you.",
+	"Kent.Gift.Loved.MedH": "Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you.",
+	"Kent.Gift.Loved.HighH": "Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you.",
+
+	"Kent.Gift.Liked.LowH": "Hey, now this is a really great gift. Thanks.",
+	"Kent.Gift.Liked.MedH": "Hey, now this is a really great gift. Thanks.",
+	"Kent.Gift.Liked.HighH": "Hey, now this is a really great gift. Thanks.",
+
+	"Kent.Gift.Neutral.LowH": "That's kind of you. The family will like this.",
+	"Kent.Gift.Neutral.MedH": "That's kind of you. The family will like this.",
+	"Kent.Gift.Neutral.HighH": "That's kind of you. The family will like this.",
+
+	"Kent.Gift.Disliked.LowH": "Ah... It's a... what is this, exactly? Hmm...",
+	"Kent.Gift.Disliked.MedH": "Ah... It's a... what is this, exactly? Hmm...",
+	"Kent.Gift.Disliked.HighH": "Ah... It's a... what is this, exactly? Hmm...",
+
+	"Kent.Gift.Hated.LowH": "This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*",
+	"Kent.Gift.Hated.MedH": "This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*",
+	"Kent.Gift.Hated.HighH": "This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*",
+
+	"Kent.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Kent.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Kent.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Kent.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Kent.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Kent.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Sam//
+	//================================================================================================================================================================//
+	"Sam.Gift.Loved.LowH": "Oh heck yeah, very cool!",
+	"Sam.Gift.Loved.MedH": "Has anyone told you lately that you're like, the raddest? Because you are.",
+	"Sam.Gift.Loved.HighH": "My favorite thing, and from my favorite person no less! Thanks!",
+
+	"Sam.Gift.Liked.LowH": "You did pretty good with this one!",
+	"Sam.Gift.Liked.MedH": "Wow this is rad, thanks homie!",
+	"Sam.Gift.Liked.HighH": "Hang on, I must express my joy through the ancient art of kickflipping!",
+
+	"Sam.Gift.Neutral.LowH": "You got that for me? Thanks!",
+	"Sam.Gift.Neutral.MedH": "You got that for me? Thanks!",
+	"Sam.Gift.Neutral.HighH": "You got that for me? Thanks!",
+
+	"Sam.Gift.Disliked.LowH": "Hmm.. this is... interesting.",
+	"Sam.Gift.Disliked.MedH": "Hmm.. this is... interesting.",
+	"Sam.Gift.Disliked.HighH": "Hmm.. this is... interesting.",
+
+	"Sam.Gift.Hated.LowH": "You really don't get it, huh?",
+	"Sam.Gift.Hated.MedH": "You really don't get it, huh?",
+	"Sam.Gift.Hated.HighH": "You really don't get it, huh?",
+
+	"Sam.AcceptBirthdayGift_Positive.LowH": "Hey, hey, hey! You remembered! Now that's what I'm talking about!$h",
+	"Sam.AcceptBirthdayGift_Positive.MedH": "Hey, hey, hey! You remembered! Now that's what I'm talking about!$h",
+	"Sam.AcceptBirthdayGift_Positive.HighH": "Hey, hey, hey! You remembered! Now that's what I'm talking about!$h",
+	
+	"Sam.AcceptBirthdayGift_Negative.LowH": "Hey, hey, hey! You rememb--$h#$b#...*sniff*...*sniff*... what's that gnarly smell...?$8#$b#...Oh.$5",
+	"Sam.AcceptBirthdayGift_Negative.MedH": "Hey, hey, hey! You rememb--$h#$b#...*sniff*...*sniff*... what's that gnarly smell...?$8#$b#...Oh.$5",
+	"Sam.AcceptBirthdayGift_Negative.HighH": "Hey, hey, hey! You rememb--$h#$b#...*sniff*...*sniff*... what's that gnarly smell...?$8#$b#...Oh.$5",
+	
+	//================================================================================================================================================================//
+	//!Leah//
+	//================================================================================================================================================================//
+	"Leah.Gift.Loved.LowH": "Oh! This is exactly what I wanted! Thank you!",
+	"Leah.Gift.Loved.MedH": "Oh! This is exactly what I wanted! Thank you!",
+	"Leah.Gift.Loved.HighH": "Oh! This is exactly what I wanted! Thank you!",
+
+	"Leah.Gift.Liked.LowH": "This is a really nice gift! Thank you!",
+	"Leah.Gift.Liked.MedH": "This is a really nice gift! Thank you!",
+	"Leah.Gift.Liked.HighH": "This is a really nice gift! Thank you!",
+
+	"Leah.Gift.Neutral.LowH": "Thank you.",
+	"Leah.Gift.Neutral.MedH": "Thank you.",
+	"Leah.Gift.Neutral.HighH": "Thank you.",
+
+	"Leah.Gift.Disliked.LowH": "Hmm... I guess everyone has different tastes.",
+	"Leah.Gift.Disliked.MedH": "Hmm... I guess everyone has different tastes.",
+	"Leah.Gift.Disliked.HighH": "Hmm... I guess everyone has different tastes.",
+
+	"Leah.Gift.Hated.LowH": "This is a pretty terrible gift, isn't it?",
+	"Leah.Gift.Hated.MedH": "This is a pretty terrible gift, isn't it?",
+	"Leah.Gift.Hated.HighH": "This is a pretty terrible gift, isn't it?",
+
+	"Leah.AcceptBirthdayGift_Positive.LowH": "Hey, thanks a bunch, @! This makes my birthday feel special.$h",
+	"Leah.AcceptBirthdayGift_Positive.MedH": "Hey, thanks a bunch, @! This makes my birthday feel special.$h",
+	"Leah.AcceptBirthdayGift_Positive.HighH": "Hey, thanks a bunch, @! This makes my birthday feel special.$h",
+
+	"Leah.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Leah.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Leah.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//?Shane//
+	//================================================================================================================================================================//
+	"Shane.Gift.Loved.LowH": "Oh wow, @! How'd you know this is my favorite?",
+	"Shane.Gift.Loved.MedH": "@! You remembered my favourite!",
+	"Shane.Gift.Loved.HighH": "My favourite! You sure do know me well at that point!",
+
+	"Shane.Gift.Liked.LowH": "Top notch, might almost be impressed.",
+	"Shane.Gift.Liked.MedH": "Always bringing me my favorite things. Y'know, you're not so bad.",
+	"Shane.Gift.Liked.HighH": "Not sure I'll ever stop being surprised by how happy it makes me that you remember what I like most. #$b# Don't really know if I want to, it's nice.",
+
+	"Shane.Gift.Neutral.LowH": "Oh, you got me something? Thanks!",
+	"Shane.Gift.Neutral.MedH": "Don't know why you keep bringing me stuff. No, I didn't say I wasn't going to take it... #$b# Thanks for the gift.",
+	"Shane.Gift.Neutral.HighH": "Oh, another gift? Thanks @, it's really not bad.",
+
+	"Shane.Gift.Disliked.LowH": "I don't really like this.",
+	"Shane.Gift.Disliked.MedH": "I don't really like this.",
+	"Shane.Gift.Disliked.HighH": "I don't really like this.",
+
+	"Shane.Gift.Hated.LowH": "Do I look like a trash bin?",
+	"Shane.Gift.Hated.MedH": "If the point was to make my day worse, it is working.",
+	"Shane.Gift.Hated.HighH": "Did I do something to make you mad? I'm sorry if I did.#$b$ Must be pretty bad if you're giving me this.",
+
+	// "Shane.AcceptBirthdayGift_Loved.LowH": "Oh, is it my birthday? I was hoping I'd forget.#$b#This is actually really nice, though. Thank you.$h",
+	// "Shane.AcceptBirthdayGift_Loved.MedH": "Oh, is it my birthday? I was hoping I'd forget.#$b#This is actually really nice, though. Thank you.$h",
+	// "Shane.AcceptBirthdayGift_Loved.HighH": "Oh, is it my birthday? I was hoping I'd forget.#$b#This is actually really nice, though. Thank you.$h",
+	
+	// "Shane.AcceptBirthdayGift_Liked.LowH": "Oh, is it my birthday? That's right... I almost forgot. Thanks.",
+	// "Shane.AcceptBirthdayGift_Liked.MedH": "Oh, is it my birthday? That's right... I almost forgot. Thanks.",
+	// "Shane.AcceptBirthdayGift_Liked.HighH": "Oh, is it my birthday? That's right... I almost forgot. Thanks.",
+
+	"Shane.AcceptBirthdayGift_Positive.LowH": "Not the worst way I've been reminded of my birthday. Thanks.",
+	"Shane.AcceptBirthdayGift_Positive.MedH": "A birthday gift? For me? You shouldn't have but, appreciate you did.",
+	"Shane.AcceptBirthdayGift_Positive.HighH": "Happy birthday to me! Thanks, @. #$b# No really, thank you. You and Jas have made birthdays a thing I don't dread anymore.",
+
+	"Shane.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Shane.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Shane.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Marnie//
+	//================================================================================================================================================================//
+	"Marnie.Gift.Loved.LowH": "This is an incredible gift! Thanks!!",
+	"Marnie.Gift.Loved.MedH": "This is an incredible gift! Thanks!!",
+	"Marnie.Gift.Loved.HighH": "This is an incredible gift! Thanks!!",
+
+	"Marnie.Gift.Liked.LowH": "Thank you!",
+	"Marnie.Gift.Liked.MedH": "Thank you!",
+	"Marnie.Gift.Liked.HighH": "Thank you!",
+
+	"Marnie.Gift.Neutral.LowH": "Thank you! This looks nice.",
+	"Marnie.Gift.Neutral.MedH": "Thank you! This looks nice.",
+	"Marnie.Gift.Neutral.HighH": "Thank you! This looks nice.",
+
+	"Marnie.Gift.Disliked.LowH": "Oh. I guess I'll take it.",
+	"Marnie.Gift.Disliked.MedH": "Oh. I guess I'll take it.",
+	"Marnie.Gift.Disliked.HighH": "Oh. I guess I'll take it.",
+
+	"Marnie.Gift.Hated.LowH": "This is worthless. I don't understand you.",
+	"Marnie.Gift.Hated.MedH": "This is worthless. I don't understand you.",
+	"Marnie.Gift.Hated.HighH": "This is worthless. I don't understand you.",
+
+	"Marnie.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Marnie.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Marnie.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Marnie.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Marnie.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Marnie.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Elliott//
+	//================================================================================================================================================================//
+	"Elliott.Gift.Loved.LowH": "@, this is a beautiful gift! Thank you!",
+	"Elliott.Gift.Loved.MedH": "@, this is a beautiful gift! Thank you!",
+	"Elliott.Gift.Loved.HighH": "@, this is a beautiful gift! Thank you!",
+
+	"Elliott.Gift.Liked.LowH": "This is for me? Marvelous!",
+	"Elliott.Gift.Liked.MedH": "This is for me? Marvelous!",
+	"Elliott.Gift.Liked.HighH": "This is for me? Marvelous!",
+
+	"Elliott.Gift.Neutral.LowH": "Oh, a present! Thank you!",
+	"Elliott.Gift.Neutral.MedH": "Oh, a present! Thank you!",
+	"Elliott.Gift.Neutral.HighH": "Oh, a present! Thank you!",
+
+	"Elliott.Gift.Disliked.LowH": "Hmm... I'm not a huge fan of this.",
+	"Elliott.Gift.Disliked.MedH": "Hmm... I'm not a huge fan of this.",
+	"Elliott.Gift.Disliked.HighH": "Hmm... I'm not a huge fan of this.",
+
+	"Elliott.Gift.Hated.LowH": "This item gives me a terrible feeling. I'll have to dispose of it.",
+	"Elliott.Gift.Hated.MedH": "This item gives me a terrible feeling. I'll have to dispose of it.",
+	"Elliott.Gift.Hated.HighH": "This item gives me a terrible feeling. I'll have to dispose of it.",
+
+	"Elliott.AcceptBirthdayGift_Positive.LowH": "I'm honored that you would remember my birthday! Thank you!$h",
+	"Elliott.AcceptBirthdayGift_Positive.MedH": "I'm honored that you would remember my birthday! Thank you!$h",
+	"Elliott.AcceptBirthdayGift_Positive.HighH": "I'm honored that you would remember my birthday! Thank you!$h",
+	
+	"Elliott.AcceptBirthdayGift_Negative.LowH": "Another year gone by, another gray hair... I suppose this gift can commemorate my decline.$s",
+	"Elliott.AcceptBirthdayGift_Negative.MedH": "Another year gone by, another gray hair... I suppose this gift can commemorate my decline.$s",
+	"Elliott.AcceptBirthdayGift_Negative.HighH": "Another year gone by, another gray hair... I suppose this gift can commemorate my decline.$s",
+	
+	//================================================================================================================================================================//
+	//!Gus//
+	//================================================================================================================================================================//
+	"Gus.Gift.Loved.LowH": "You're giving this... to me? I'm speechless.",
+	"Gus.Gift.Loved.MedH": "You're giving this... to me? I'm speechless.",
+	"Gus.Gift.Loved.HighH": "You're giving this... to me? I'm speechless.",
+
+	"Gus.Gift.Liked.LowH": "Oh, goodness! Are you sure?",
+	"Gus.Gift.Liked.MedH": "Oh, goodness! Are you sure?",
+	"Gus.Gift.Liked.HighH": "Oh, goodness! Are you sure?",
+
+	"Gus.Gift.Neutral.LowH": "Oh, that's sweet. Thank you.",
+	"Gus.Gift.Neutral.MedH": "Oh, that's sweet. Thank you.",
+	"Gus.Gift.Neutral.HighH": "Oh, that's sweet. Thank you.",
+
+	"Gus.Gift.Disliked.LowH": "No, no, no...",
+	"Gus.Gift.Disliked.MedH": "No, no, no...",
+	"Gus.Gift.Disliked.HighH": "No, no, no...",
+
+	"Gus.Gift.Hated.LowH": "This is absolute junk. I'm offended.",
+	"Gus.Gift.Hated.MedH": "This is absolute junk. I'm offended.",
+	"Gus.Gift.Hated.HighH": "This is absolute junk. I'm offended.",
+
+	"Gus.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Gus.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Gus.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Gus.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Gus.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Gus.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Dwarf//
+	//================================================================================================================================================================//
+	"Dwarf.Gift.Loved.LowH": "Hey, I really love this stuff. You can find great things in the mines.",
+	"Dwarf.Gift.Loved.MedH": "Hey, I really love this stuff. You can find great things in the mines.",
+	"Dwarf.Gift.Loved.HighH": "Hey, I really love this stuff. You can find great things in the mines.",
+
+	"Dwarf.Gift.Liked.LowH": "Ah, this reminds me of home.",
+	"Dwarf.Gift.Liked.MedH": "Ah, this reminds me of home.",
+	"Dwarf.Gift.Liked.HighH": "Ah, this reminds me of home.",
+
+	"Dwarf.Gift.Neutral.LowH": "An offering! Thank you.",
+	"Dwarf.Gift.Neutral.MedH": "An offering! Thank you.",
+	"Dwarf.Gift.Neutral.HighH": "An offering! Thank you.",
+
+	"Dwarf.Gift.Disliked.LowH": "Hmm... Is this what humans like?",
+	"Dwarf.Gift.Disliked.MedH": "Hmm... Is this what humans like?",
+	"Dwarf.Gift.Disliked.HighH": "Hmm... Is this what humans like?",
+
+	"Dwarf.Gift.Hated.LowH": "I don't care what species you are. This is worthless garbage.",
+	"Dwarf.Gift.Hated.MedH": "I don't care what species you are. This is worthless garbage.",
+	"Dwarf.Gift.Hated.HighH": "I don't care what species you are. This is worthless garbage.",
+
+	"Dwarf.AcceptBirthdayGift_Positive.LowH": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it? Hmm, very interesting...",
+	"Dwarf.AcceptBirthdayGift_Positive.MedH": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it? Hmm, very interesting...",
+	"Dwarf.AcceptBirthdayGift_Positive.HighH": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it? Hmm, very interesting...",
+	
+	"Dwarf.AcceptBirthdayGift_Negative.LowH": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it?#$b#So, is it part of the tradition to give out garbage like this?",
+	"Dwarf.AcceptBirthdayGift_Negative.MedH": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it?#$b#So, is it part of the tradition to give out garbage like this?",
+	"Dwarf.AcceptBirthdayGift_Negative.HighH": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it?#$b#So, is it part of the tradition to give out garbage like this?",
+	
+	//================================================================================================================================================================//
+	//!Wizard//
+	//================================================================================================================================================================//
+	"Wizard.Gift.Loved.LowH": "Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!",
+	"Wizard.Gift.Loved.MedH": "Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!",
+	"Wizard.Gift.Loved.HighH": "Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!",
+
+	"Wizard.Gift.Liked.LowH": "Many thanks. This item has some very interesting properties.",
+	"Wizard.Gift.Liked.MedH": "Many thanks. This item has some very interesting properties.",
+	"Wizard.Gift.Liked.HighH": "Many thanks. This item has some very interesting properties.",
+
+	"Wizard.Gift.Neutral.LowH": "Thank you. This will prove useful, I think.",
+	"Wizard.Gift.Neutral.MedH": "Thank you. This will prove useful, I think.",
+	"Wizard.Gift.Neutral.HighH": "Thank you. This will prove useful, I think.",
+
+	"Wizard.Gift.Disliked.LowH": "This?... I suppose I'll cast it into the flames and see what happens.",
+	"Wizard.Gift.Disliked.MedH": "This?... I suppose I'll cast it into the flames and see what happens.",
+	"Wizard.Gift.Disliked.HighH": "This?... I suppose I'll cast it into the flames and see what happens.",
+
+	"Wizard.Gift.Hated.LowH": "Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.",
+	"Wizard.Gift.Hated.MedH": "Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.",
+	"Wizard.Gift.Hated.HighH": "Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.",
+
+	"Wizard.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Wizard.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Wizard.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Wizard.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Wizard.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Wizard.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Harvey//
+	//================================================================================================================================================================//
+	"Harvey.Gift.Loved.LowH": "It's for me? This is my favorite stuff! It's like you read my mind.",
+	"Harvey.Gift.Loved.MedH": "It's for me? This is my favorite stuff! It's like you read my mind.",
+	"Harvey.Gift.Loved.HighH": "It's for me? This is my favorite stuff! It's like you read my mind.",
+
+	"Harvey.Gift.Liked.LowH": "That's such a nice gift. Thank you!",
+	"Harvey.Gift.Liked.MedH": "That's such a nice gift. Thank you!",
+	"Harvey.Gift.Liked.HighH": "That's such a nice gift. Thank you!",
+
+	"Harvey.Gift.Neutral.LowH": "Thanks. That's very kind of you.",
+	"Harvey.Gift.Neutral.MedH": "Thanks. That's very kind of you.",
+	"Harvey.Gift.Neutral.HighH": "Thanks. That's very kind of you.",
+
+	"Harvey.Gift.Disliked.LowH": "Hmm... Are you sure this is healthy?",
+	"Harvey.Gift.Disliked.MedH": "Hmm... Are you sure this is healthy?",
+	"Harvey.Gift.Disliked.HighH": "Hmm... Are you sure this is healthy?",
+
+	"Harvey.Gift.Hated.LowH": "...I think I'm allergic to this.",
+	"Harvey.Gift.Hated.MedH": "...I think I'm allergic to this.",
+	"Harvey.Gift.Hated.HighH": "...I think I'm allergic to this.",
+
+	"Harvey.AcceptBirthdayGift_Positive.LowH": "Oh! Thank you very much! I didn't expect anyone to know it was my birthday today.$h",
+	"Harvey.AcceptBirthdayGift_Positive.MedH": "Oh! Thank you very much! I didn't expect anyone to know it was my birthday today.$h",
+	"Harvey.AcceptBirthdayGift_Positive.HighH": "Oh! Thank you very much! I didn't expect anyone to know it was my birthday today.$h",
+	
+	"Harvey.AcceptBirthdayGift_Negative.LowH": "Oh! It's a... well, it's something. I didn't expect anyone to know it was my birthday today.",
+	"Harvey.AcceptBirthdayGift_Negative.MedH": "Oh! It's a... well, it's something. I didn't expect anyone to know it was my birthday today.",
+	"Harvey.AcceptBirthdayGift_Negative.HighH": "Oh! It's a... well, it's something. I didn't expect anyone to know it was my birthday today.",
+	
+	//================================================================================================================================================================//
+	//!Sandy//
+	//================================================================================================================================================================//
+	"Sandy.Gift.Loved.LowH": "Ooo! I absolutely love getting gifts from the valley. I'm so happy!~",
+	"Sandy.Gift.Loved.MedH": "Ooo! I absolutely love getting gifts from the valley. I'm so happy!~",
+	"Sandy.Gift.Loved.HighH": "Ooo! I absolutely love getting gifts from the valley. I'm so happy!~",
+
+	"Sandy.Gift.Liked.LowH": "This looks wonderful. Thanks so much!",
+	"Sandy.Gift.Liked.MedH": "This looks wonderful. Thanks so much!",
+	"Sandy.Gift.Liked.HighH": "This looks wonderful. Thanks so much!",
+
+	"Sandy.Gift.Neutral.LowH": "This is for me? Thank you!",
+	"Sandy.Gift.Neutral.MedH": "This is for me? Thank you!",
+	"Sandy.Gift.Neutral.HighH": "This is for me? Thank you!",
+
+	"Sandy.Gift.Disliked.LowH": "Oh... Um. Thanks.",
+	"Sandy.Gift.Disliked.MedH": "Oh... Um. Thanks.",
+	"Sandy.Gift.Disliked.HighH": "Oh... Um. Thanks.",
+
+	"Sandy.Gift.Hated.LowH": "*sniff* ...what is it?",
+	"Sandy.Gift.Hated.MedH": "*sniff* ...what is it?",
+	"Sandy.Gift.Hated.HighH": "*sniff* ...what is it?",
+
+	"Sandy.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Sandy.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Sandy.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Sandy.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Sandy.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Sandy.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Willy//
+	//================================================================================================================================================================//
+	"Willy.Gift.Loved.LowH": "This is great! If only me ol' Pappy was around. He'd go nuts for this.",
+	"Willy.Gift.Loved.MedH": "This is great! If only me ol' Pappy was around. He'd go nuts for this.",
+	"Willy.Gift.Loved.HighH": "This is great! If only me ol' Pappy was around. He'd go nuts for this.",
+
+	"Willy.Gift.Liked.LowH": "This looks great. Thank you!",
+	"Willy.Gift.Liked.MedH": "This looks great. Thank you!",
+	"Willy.Gift.Liked.HighH": "This looks great. Thank you!",
+
+	"Willy.Gift.Neutral.LowH": "A gift! Thanks.",
+	"Willy.Gift.Neutral.MedH": "A gift! Thanks.",
+	"Willy.Gift.Neutral.HighH": "A gift! Thanks.",
+
+	"Willy.Gift.Disliked.LowH": "Hmmm... You like stuff like this? Huh.",
+	"Willy.Gift.Disliked.MedH": "Hmmm... You like stuff like this? Huh.",
+	"Willy.Gift.Disliked.HighH": "Hmmm... You like stuff like this? Huh.",
+
+	"Willy.Gift.Hated.LowH": "... *sniff*... Well I guess I can toss it into the chum bucket.",
+	"Willy.Gift.Hated.MedH": "... *sniff*... Well I guess I can toss it into the chum bucket.",
+	"Willy.Gift.Hated.HighH": "... *sniff*... Well I guess I can toss it into the chum bucket.",
+
+	"Willy.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Willy.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Willy.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Willy.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Willy.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Willy.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+	
+	//================================================================================================================================================================//
+	//!Krobus//
+	//================================================================================================================================================================//
+	"Krobus.Gift.Loved.LowH": "This is an amazing gift. For my people it is a great honor to receive something like this.",
+	"Krobus.Gift.Loved.MedH": "This is an amazing gift. For my people it is a great honor to receive something like this.",
+	"Krobus.Gift.Loved.HighH": "This is an amazing gift. For my people it is a great honor to receive something like this.",
+
+	"Krobus.Gift.Liked.LowH": "Thank you very much.",
+	"Krobus.Gift.Liked.MedH": "Thank you very much.",
+	"Krobus.Gift.Liked.HighH": "Thank you very much.",
+
+	"Krobus.Gift.Neutral.LowH": "Thank you.",
+	"Krobus.Gift.Neutral.MedH": "Thank you.",
+	"Krobus.Gift.Neutral.HighH": "Thank you.",
+
+	"Krobus.Gift.Disliked.LowH": "Humans have... interesting tastes.",
+	"Krobus.Gift.Disliked.MedH": "Humans have... interesting tastes.",
+	"Krobus.Gift.Disliked.HighH": "Humans have... interesting tastes.",
+
+	"Krobus.Gift.Hated.LowH": "Oh... Um. I guess I'll accept it.",
+	"Krobus.Gift.Hated.MedH": "Oh... Um. I guess I'll accept it.",
+	"Krobus.Gift.Hated.HighH": "Oh... Um. I guess I'll accept it.",
+
+	"Krobus.AcceptBirthdayGift_Positive.LowH": "Oh, a gift to remember the day that I hatched! Thank you!$h",
+	"Krobus.AcceptBirthdayGift_Positive.MedH": "Oh, a gift to remember the day that I hatched! Thank you!$h",
+	"Krobus.AcceptBirthdayGift_Positive.HighH": "Oh, a gift to remember the day that I hatched! Thank you!$h",
+	
+	"Krobus.AcceptBirthdayGift_Negative.LowH": "Oh... is this what you call a 'birthday present'? I don't understand humans...$s",
+	"Krobus.AcceptBirthdayGift_Negative.MedH": "Oh... is this what you call a 'birthday present'? I don't understand humans...$s",
+	"Krobus.AcceptBirthdayGift_Negative.HighH": "Oh... is this what you call a 'birthday present'? I don't understand humans...$s",
+	
+	//================================================================================================================================================================//
+	//!Leo//
+	//================================================================================================================================================================//
+	"Leo.Gift.Loved.LowH": "I love this. I'm going to put it in my nest.",
+	"Leo.Gift.Loved.MedH": "I love this. I'm going to put it in my nest.",
+	"Leo.Gift.Loved.HighH": "I love this. I'm going to put it in my nest.",
+
+	"Leo.Gift.Liked.LowH": "Are you sure? This is so nice...",
+	"Leo.Gift.Liked.MedH": "Are you sure? This is so nice...",
+	"Leo.Gift.Liked.HighH": "Are you sure? This is so nice...",
+
+	"Leo.Gift.Neutral.LowH": "I accept your gift.",
+	"Leo.Gift.Neutral.MedH": "I accept your gift.",
+	"Leo.Gift.Neutral.HighH": "I accept your gift.",
+
+	"Leo.Gift.Disliked.LowH": "Oh... I don't know if I can digest this...",
+	"Leo.Gift.Disliked.MedH": "Oh... I don't know if I can digest this...",
+	"Leo.Gift.Disliked.HighH": "Oh... I don't know if I can digest this...",
+
+	"Leo.Gift.Hated.LowH": "*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?",
+	"Leo.Gift.Hated.MedH": "*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?",
+	"Leo.Gift.Hated.HighH": "*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?",
+
+	"Leo.AcceptBirthdayGift_Positive.LowH": "Birthday gift low heart",
+	"Leo.AcceptBirthdayGift_Positive.MedH": "Birthday gift medium heart",
+	"Leo.AcceptBirthdayGift_Positive.HighH": "Birthday gift high heart",
+
+	"Leo.AcceptBirthdayGift_Negative.LowH": "Birthday gift negative low heart",
+	"Leo.AcceptBirthdayGift_Negative.MedH": "Birthday gift negative medium heart",
+	"Leo.AcceptBirthdayGift_Negative.HighH": "Birthday gift negative high heart",
+}

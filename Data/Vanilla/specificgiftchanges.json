@@ -1,0 +1,14 @@
+{
+	"Changes": [
+		// Here is for everything that is not generic
+		// So for example changing the gift tastes of a specific NPC at a specific heart level
+		// Or adding a gift reaction of a specific NPC to a specific item, like this
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Abigail",
+			"Entries": {
+				"AcceptBirthdayGift_category_mineral": "Yay yummy stone"
+			}
+		}
+	]
+}

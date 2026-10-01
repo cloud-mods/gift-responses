@@ -1,13 +1,11 @@
 {
-    "Name": "[CP] Absurdly Detailed Gift Responses",
-    "Author": "HeadInTheClouds and Friends",
-    "Version": "1.0",
-    "Description": "",
-    "UniqueID": "HeadInTheClouds.GiftResponses",
-    "UpdateKeys": [
-        "Nexus:_____"
-    ],
-    "ContentPackFor": {
-        "UniqueId": "Pathoschild.ContentPatcher"
-    },
+	"Author": "HeadInTheClouds & Xyaria",
+	"Name": "Heart level-dependant Gifts",
+	"Version": "1.0.0",
+	"UniqueID": "cloudNduck.HLDGifts",
+	"UpdateKeys": ["Nexus:????"],
+	"Description": "Changes NPC's gift reaction and taste depending on how close you are to them",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
 }

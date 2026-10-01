@@ -1,0 +1,254 @@
+{
+	"Changes": [
+		// ======================================================================================
+		// More specific and unique adjustments (if needed)
+		// ======================================================================================
+		{
+			"Action": "Include",
+			"FromFile": "Data/Vanilla/specificgiftchanges.json",
+		},
+
+		// ======================================================================================
+		// Gift reaction dialogue changes
+		// ======================================================================================
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Robin"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Demetrius"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Maru"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Sebastian"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Linus"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Pierre"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Caroline"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Abigail"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Alex"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "George"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Evelyn"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Lewis"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Clint"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Penny"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Pam"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Emily"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Haley"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Jas"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Vincent"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Jodi"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Kent"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Sam"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Leah"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Shane"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Marnie"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Elliott"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Gus"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Dwarf"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Wizard"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Harvey"
+			}
+		},
+		// Sandy isn't supported in the Hearts query
+		// {
+		// 	"Action": "Include",
+		// 	"FromFile": "Data/genericgiftreactions.json",
+		// 	"LocalTokens": {
+		// 		"NpcName": "Sandy"
+		// 	}
+		// },
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Willy"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Krobus"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "Data/genericgiftreactions.json",
+			"LocalTokens": {
+				"NpcName": "Leo"
+			}
+		},
+	]
+}

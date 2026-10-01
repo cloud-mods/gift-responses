@@ -1,0 +1,52 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{NpcName}}",
+			"When": {
+				"Hearts:{{NpcName}}": "{{Range:0,3}}"
+			},
+			"Entries": {
+				"AcceptBirthdayGift_Positive": "{{i18n:{{NpcName}}.AcceptBirthdayGift_Positive.LowH}}",
+				"AcceptBirthdayGift_Negative": "{{i18n:{{NpcName}}.AcceptBirthdayGift_Negative.LowH}}",
+				"AcceptGift_Loved": "{{i18n:{{NpcName}}.Gift.Loved.LowH}}",
+				"AcceptGift_Liked": "{{i18n:{{NpcName}}.Gift.Liked.LowH}}",
+				"AcceptGift_Neutral": "{{i18n:{{NpcName}}.Gift.Neutral.LowH}}",
+				"AcceptGift_Disliked": "{{i18n:{{NpcName}}.Gift.Disliked.LowH}}",
+				"AcceptGift_Hated": "{{i18n:{{NpcName}}.Gift.Hated.LowH}}",
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{NpcName}}",
+			"When": {
+				"Hearts:{{NpcName}}": "{{Range:4,7}}"
+			},
+			"Entries": {
+				"AcceptBirthdayGift_Positive": "{{i18n:{{NpcName}}.AcceptBirthdayGift_Positive.MedH}}",
+				"AcceptBirthdayGift_Negative": "{{i18n:{{NpcName}}.AcceptBirthdayGift_Negative.MedH}}",
+				"AcceptGift_Loved": "{{i18n:{{NpcName}}.Gift.Loved.MedH}}",
+				"AcceptGift_Liked": "{{i18n:{{NpcName}}.Gift.Liked.MedH}}",
+				"AcceptGift_Neutral": "{{i18n:{{NpcName}}.Gift.Neutral.MedH}}",
+				"AcceptGift_Disliked": "{{i18n:{{NpcName}}.Gift.Disliked.MedH}}",
+				"AcceptGift_Hated": "{{i18n:{{NpcName}}.Gift.Hated.MedH}}",
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{NpcName}}",
+			"When": {
+				"Hearts:{{NpcName}}": "{{Range:8,14}}"
+			},
+			"Entries": {
+				"AcceptBirthdayGift_Positive": "{{i18n:{{NpcName}}.AcceptBirthdayGift_Positive.HighH}}",
+				"AcceptBirthdayGift_Negative": "{{i18n:{{NpcName}}.AcceptBirthdayGift_Negative.HighH}}",
+				"AcceptGift_Loved": "{{i18n:{{NpcName}}.Gift.Loved.HighH}}",
+				"AcceptGift_Liked": "{{i18n:{{NpcName}}.Gift.Liked.HighH}}",
+				"AcceptGift_Neutral": "{{i18n:{{NpcName}}.Gift.Neutral.HighH}}",
+				"AcceptGift_Disliked": "{{i18n:{{NpcName}}.Gift.Disliked.HighH}}",
+				"AcceptGift_Hated": "{{i18n:{{NpcName}}.Gift.Hated.HighH}}",
+			}
+		},
+	]
+}
